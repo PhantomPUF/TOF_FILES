@@ -1,9 +1,10 @@
 TwoSided = false
 bDisableDepthTest = false
 bIsMasked = false
-ReferencedTextures[1] =
+ReferencedTextures[2] =
 {
-    ReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask029.T_Mask029'
+    ReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask014.T_Mask014'
+    ReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask029.T_Mask029'
 }
 Expressions[0] = {}
 CachedExpressionData =
@@ -170,6 +171,7 @@ CachedExpressionData =
     }
     ReferencedTextures[12] =
     {
+        ReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask014.T_Mask014'
         ReferencedTextures[7] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask029.T_Mask029'
     }
 }

@@ -168,6 +168,7 @@ RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
 CachedReferencedTextures[12] =
 {
+    CachedReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask014.T_Mask014'
     CachedReferencedTextures[7] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask029.T_Mask029'
 }
 FlattenedTexture = None
