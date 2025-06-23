@@ -43,7 +43,7 @@ TextureParameterValues[1] =
     TextureParameterValues[0] =
     {
         ParameterInfo = { Name=UI_Tex_01 }
-        ParameterValue = None
+        ParameterValue = Texture2D'/Game/Resources/UI/yindao/guide_focuse3.guide_focuse3'
         ParameterName = None
     }
 }
