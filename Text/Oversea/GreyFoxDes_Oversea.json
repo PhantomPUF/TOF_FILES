@@ -1,0 +1,19 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "GreyFoxDes_Oversea",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "GreyFoxDes_Oversea",
+      "KeysToEntries": {
+        "Buff_GreyFox_SSR_Level0_always_des_OS": "<shuzhi>冰雷融合</>：该武器计算伤害时取装备最高的寒冰/雷电基础攻击，装备最高的寒冰/雷电百分比攻击，装备最高的寒冰/雷电增伤。且该武器能同时视为寒冰元素武器和雷电元素武器。\r\n<shuzhi>寒冰共鸣</>：装备<shuzhi>2</>把及以上寒冰武器触发，提升<shuzhi>15%</>冰攻和<shuzhi>25%</>冰抗，装备后后台可生效（多个寒冰共鸣/寒冰反应不叠加，优先生效寒冰共鸣）。\r\n<shuzhi>雷电共鸣</>：装备<shuzhi>2</>把及以上雷电武器触发，提升<shuzhi>15%</>雷攻和<shuzhi>25%</>雷抗，装备后后台可生效（多个雷电共鸣/雷电反应不叠加，优先生效雷电共鸣）。\r\n<shuzhi>延时发条-脱手</>：释放<shuzhi>魔力转换</>后，每秒对命中目标造成<shuzhi>{0}%</>*冰攻+<shuzhi>{1}%</>*自身最大生命值+<shuzhi>{2}%</>*各元素抗性之和+<shuzhi>{3}%</>*暴击点伤害，持续<shuzhi>{4}</>秒，多个脱手伤害不叠加，延时发条伤害视为技能伤害，若装备任意<shuzhi>1</>把火焰/物理武器，则延时发条伤害提升至<shuzhi>{5}</>倍。此外，延时发条伤害不受除泰坦装备稀有属性以外的增伤效果影响，也不会触发额外攻击效果。\r\n<shuzhi>魔力储备</>：<shuzhi>魔女之匙</>处于前台时，可获得<shuzhi>威能刻度</>，用于推进<shuzhi>魔女之匙</>的时钟进度，强化魔法效果或释放更强大的魔法，<shuzhi>威能刻度</>至多叠加至<shuzhi>12</>层，持续<shuzhi>60</>秒，脱战<shuzhi>15</>秒后移除。",
+        "GA_FPlayerGreyFoxChangeSkill_Success_des_OS": "当<red>武器充能满</>或触发<red>幻时</>时，从其他武器切换到该武器时<shuzhi>清除自身负面状态</>，立即获得<shuzhi>12</>层威能刻度与<shuzhi>30</>秒霸体效果，对附近目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害，期间免疫伤害持续<shuzhi>1.5</>秒（巅峰联赛不生效）。\r\n激活<shuzhi>恩赐共鸣</>时：\r\n解除自身与附近队友的负面状态与控制效果（包括灰噬效果）。\t",
+        "Buff_GreyFox_SSR_Level3_des_OS": "<shuzhi>时之魔女</>状态下，每<shuzhi>{2}</>秒对附近目标造成<shuzhi>775%</>*攻击力点伤害；\r\n激活<shuzhi>恩赐共鸣</>时：满层<shuzhi>威能刻度</>释放<shuzhi>技能-魔力转换</>时，自身和周围队友最终伤害提高<shuzhi>{0}%</>（不可叠加），持续<shuzhi>{1}</>秒；此外被添加<shuzhi>逆流时刻</>效果的目标，每<shuzhi>{3}</>秒抗暴降低<shuzhi>{4}%</>，持续<shuzhi>{5}</>秒，至多叠加至<shuzhi>5</>层。",
+        "Buff_GreyFox_Thunder_Resonance_des_OS": "<shuzhi>雷电共鸣</>：装备<shuzhi>2</>把及以上雷电武器触发，提升<shuzhi>15%</>雷攻和<shuzhi>25%</>雷抗，装备后后台可生效（多个雷电共鸣/雷电反应不叠加，优先生效雷电共鸣）。",
+        "Buff_GreyFox_Ice_Resonance_des_OS": "<shuzhi>寒冰共鸣</>：装备<shuzhi>2</>把及以上寒冰武器触发，提升<shuzhi>15%</>冰攻和<shuzhi>25%</>冰抗，装备后后台可生效（多个寒冰共鸣/寒冰反应不叠加，优先生效寒冰共鸣）。",
+        "GA_FPlayerGreyFoxSkill_Skill01_des_OS": "消耗所有<shuzhi>威能刻度</>，对附近目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害；\r\n进入<red>时之魔女</>状态，部分普攻模式改变，并根据消耗的<shuzhi>威能刻度</>层数，每消耗<shuzhi>1</>层冰元素伤害提升<shuzhi>1%</>，持续<shuzhi>30</>秒；期间释放<shuzhi>普攻-凝滞激流</>，可获得新技能<shuzhi>零点光束</>（每个<red>时之魔女</>状态下仅可获取并释放<shuzhi>1</>次，且期间切换武器将无法获取或使用），冷却<shuzhi>30</>秒（不受任何冷却时间清除、重置、变化效果的影响）。"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "TkatanaDes_Oversea",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "TkatanaDes_Oversea",
+      "KeysToEntries": {
+        "ga_Tkatana_ChangeSkill_des_OS": "当<red>武器充能满</>或触发<red>幻时</>时，从其他武器切换到该武器时<shuzhi>清除自身负面状态</>，并持三刀蓄力，短暂蓄力后向前突入进行连续斩击，对附近目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害，使命中目标受到治疗效果降低<shuzhi>60%</>，持续<shuzhi>30</>秒，期间免疫伤害持续<shuzhi>1.5</>秒（巅峰联赛不生效）。",
+        "Buff_Tkatana_Fire_SSR_Level0_Resonance_des_OS": "<shuzhi>物理共鸣</>：装备<shuzhi>2</>把及以上物理武器触发，提升<shuzhi>15%</>物攻和<shuzhi>25%</>物抗，装备后后台可生效（多个物理共鸣/物理反应不叠加，优先生效物理共鸣）。",
+        "Buff_Tkatana_SSR_Level0_des_OS": "<shuzhi>物火融合</>：该武器计算伤害时取装备最高的物理/火焰基础攻击，装备最高的物理/火焰百分比攻击，装备最高的物理/火焰增伤。且该武器能同时视为物理元素武器和火焰元素武器。\r\n<shuzhi>物理共鸣</>：装备<shuzhi>2</>把及以上物理武器触发，提升<shuzhi>15%</>物攻和<shuzhi>25%</>物抗，装备后后台可生效（多个物理共鸣/物理反应不叠加，优先生效物理共鸣）。\r\n<shuzhi>火焰共鸣</>：装备<shuzhi>2</>把及以上火焰武器触发，提升<shuzhi>15%</>火攻和<shuzhi>25%</>火抗，装备后后台可生效（多个火焰共鸣/火焰反应不叠加，优先生效火焰共鸣）。\r\n<shuzhi>炽焰-驻场</>：<shuzhi>业火</>任意攻击命中时，对附近目标造成<shuzhi>{0}%</>*火攻+<shuzhi>{1}%</>*自身最大生命值+<shuzhi>{2}%</>*各元素抗性之和+<shuzhi>{3}%</>*暴击值点伤害，每<shuzhi>1.5</>秒至多触发一次，炽焰伤害视为普攻伤害，若装备任意<shuzhi>1</>把寒冰/雷电武器，则炽焰伤害提升至<shuzhi>{4}</>倍。此外，炽焰伤害不受除泰坦装备稀有属性以外的增伤效果影响，也不会触发额外攻击效果。",
+        "Buff_Tkatana_Flame_SSR_Level0_Resonance_des_OS": "<shuzhi>火焰共鸣</>：装备<shuzhi>2</>把及以上火焰武器触发，提升<shuzhi>15%</>火攻和<shuzhi>25%</>火抗，装备后后台可生效（多个火焰共鸣/火焰反应不叠加，优先生效火焰共鸣）",
+        "ga_Tkatana_RealSkill1_des_OS": "自身进入焰魂状态，最终伤害提升<shuzhi>10%</>，持续<shuzhi>25</>秒。后退抛掷武器，唤出火焰幻影斩击，对附近目标造成<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害，多个幻影汇聚后自身突进与幻影发动合击，对附近目标造成<shuzhi>{2}%</>*攻击力+<shuzhi>{3}</>点伤害并击飞目标，冷却<shuzhi>25</>秒。同时自身进入分饰状态，持续<shuzhi>21</>秒。\r\n<shuzhi>分饰</>：期间自身获得霸体，使用普攻、闪避攻击（可触发<shuzhi>闪避-所向无前</>的攻击除外）命中时可生成残影触发协同攻击，造成本次攻击<shuzhi>50%</>的伤害，残影持续<shuzhi>30</>秒，场上至多存在<shuzhi>5</>个残影，残影视为召唤物。"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

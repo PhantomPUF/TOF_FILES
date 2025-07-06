@@ -1,0 +1,19 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "WeaponSensualityDes_Overseas",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "WeaponSensualityDes_Overseas",
+      "KeysToEntries": {
+        "Fan_Superpower_Sensuality_level1_des": "凛夜昙花倍率提升至75%，在起源战境玩法中该伤害提升至150%",
+        "Fan_Superpower_Sensuality_level2_des": "全元素伤害提升3%。（该效果无需上阵也会生效）",
+        "Fan_Superpower_Sensuality_level3_des": "技能映月之镜持续时间延长至30秒，在讨伐作战玩法中延长至60秒。",
+        "Fan_Superpower_Sensuality_level4_des": "装备凛夜在映月之境内，每秒对锁定目标释放一个特殊昙花，造成3000%*异能攻+50%*自身最大生命值+1500%*各元素抗性之和+6000%*暴击值点伤害，在旧日以及超域玩法中造成的伤害为2倍（该伤害不受除泰坦装备稀有属性以外的增伤效果影响，也不会触发额外攻击效果）",
+        "Fan_Superpower_Sensuality_level5_des": "全元素伤害提升4%。（该效果无需上阵也会生效）",
+        "Fan_Superpower_Sensuality_level6_des": "映月之镜内自身攻击提高23%效果对所有队友生效，不可叠加。"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

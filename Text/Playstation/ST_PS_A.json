@@ -1,0 +1,45 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_PS_A",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "ST_PS_A",
+      "KeysToEntries": {
+        "PlayStation_ui_ps_6": "OnlineID:",
+        "PlayStation_ui_ps_5": "\"PlayStation\r\nNetwork\"",
+        "PlayStation_Trans__2": "选择器",
+        "PlayStation_Trans__3": "通常",
+        "PlayStation_Trans__4": "游标",
+        "PlayStation_Trans__5": "按住",
+        "PlayStation_Trans__6": "推动",
+        "PlayStation_Trans__7": "按键设置",
+        "PlayStation_Trans__8": "操作向导",
+        "PlayStation_Trans__9": "其他",
+        "PlayStation_Trans__10": "震动设置",
+        "PlayStation_Trans__11": "命运突围",
+        "PlayStation_Trans__12": "还原默认设置",
+        "PlayStation_Trans__13": "离开",
+        "PlayStation_Trans__14": "设置",
+        "PlayStation_Trans__15": "武器",
+        "PlayStation_Trans__16": "源器",
+        "PlayStation_Trans__17": "背包",
+        "PlayStation_Trans__18": "手柄",
+        "PlayStation_Trans__19": "滑动界面",
+        "PlayStation_Trans__20": "菜单",
+        "PlayStation_Trans__21": "移动方式",
+        "PlayStation_Trans__22": "移动模式",
+        "PlayStation_Trans__23": "加速",
+        "PlayStation_Trans__24": "匀速",
+        "PlayStation_Trans__25": "灵敏度",
+        "PlayStation_MonthCard_Taijing": "钛晶×300",
+        "PlayStation_gameversiongift_001": "3.6(上)",
+        "PlayStation_gameversiongift_002": "3.6(下)",
+        "StampReportFlow_03_PlayStation": "一不留神，塔塔竟然已经认识执行者大人<shuzhi>半年</>了！那可是<shuzhi>4344</>小时!时间……总是像这样，趁我们不注意时偷偷溜走吗?",
+        "PlayStation_gameversiongift_003": "3.7版本(上)",
+        "PlayStation_gameversiongift_004": "3.7版本(下)"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

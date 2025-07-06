@@ -1,0 +1,26 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "CommodoreDes_Oversea",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "CommodoreDes_Oversea",
+      "KeysToEntries": {
+        "Matrix_SSR_58_2_Level1_on_OS": "雷电攻击提升{0}%/<shuzhi>{1}%</>/{2}%/{3}%，<shuzhi>武器-AF-010侍者</>普攻第五段伤害提升至<shuzhi>1588%</>，强化普攻第五段总倍率提升至<shuzhi>4990%</>。",
+        "MatrixSuit_SSR58_des1_OS": "雷电攻击提升{0}%/{1}%/{2}%/{3}%，<shuzhi>武器-AF-010侍者</>攻击第5段伤害倍率提升至1588%，强化普攻第五段总倍率提升至4990%。",
+        "Matrix_SSR_58_2_Level3_on_OS": "雷电攻击提升{0}%/{1}%/{2}%/<shuzhi>{3}%</>，<shuzhi>武器-AF-010侍者</>者普攻第五段伤害提升至<shuzhi>1588%</>，强化普攻第五段总倍率提升至<shuzhi>4990%</>。",
+        "Matrix_SSR_58_2_Level2_on_OS": "雷电攻击提升{0}%/{1}%/<shuzhi>{2}%</>/{3}%，<shuzhi>武器-AF-010侍者</>普攻第五段伤害提升至<shuzhi>1588%</>，强化普攻第五段总倍率提升至<shuzhi>4990%</>。",
+        "Buff_Commodore_Ice_Resonance_Des_OS": "<shuzhi>寒冰共鸣</>：装备<shuzhi>2</>把及以上寒冰武器触发，提升<shuzhi>15%</>冰攻和<shuzhi>25%</>冰抗，装备后后台可生效（多个寒冰共鸣/寒冰反应不叠加，优先生效寒冰共鸣）。",
+        "Matrix_SSR_58_2_Level0_on_OS": "雷电攻击提升<shuzhi>{0}%</>/{1}%/{2}%/{3}%，<shuzhi>武器-AF-010侍者</>普攻第五段伤害提升至<shuzhi>1588%</>，强化普攻第五段总倍率提升至<shuzhi>4990%</>。",
+        "Buff_Commodore_SSR_Level6_Des_OS": "最终伤害提升<shuzhi>{0}%</>，<shuzhi>技能-瞬身连击</>总伤害提升至<shuzhi>12528%</>",
+        "Buff_Matrix_SSR117_level1_Des_OS": "雷电攻击提升<shuzhi>{0}%</>，武器AF-010侍者攻击第5段伤害提升至<shuzhi>1588%</>，强化普攻第五段总倍率提升至<shuzhi>4990%</>。",
+        "Buff_Commodore_SSR_Level0_Des_OS": "<shuzhi>雷冰融合</>：该武器计算伤害时取装备最高的雷电/寒冰基础攻击，装备最高的雷电/寒冰百分比攻击，装备最高的雷电/寒冰增伤。且该武器能同时视为雷电元素武器和寒冰元素武器。\r\n<shuzhi>雷电共鸣</>：装备<shuzhi>2</>把及以上雷电武器触发，提升<shuzhi>15%</>雷攻和<shuzhi>25%</>雷抗，装备后后台可生效（多个雷电共鸣/雷电反应不叠加，优先生效雷电共鸣）。\r\n<shuzhi>寒冰共鸣</>：装备<shuzhi>2</>把及以上寒冰武器触发，提升<shuzhi>15%</>冰攻和<shuzhi>25%</>冰抗，装备后后台可生效（多个寒冰共鸣/寒冰反应不叠加，优先生效寒冰共鸣）。\r\n<shuzhi>磁电力场-驻场</>：<shuzhi>AF-010侍者</>任意攻击命中时，对附近目标造成<shuzhi>{0}%</>*雷攻+<shuzhi>{1}%</>*自身最大生命值+<shuzhi>{2}%</>*各元素抗性之和+<shuzhi>{3}%</>*暴击值点伤害，每<shuzhi>1.5</>秒至多触发一次，驻场伤害视为普攻伤害，若装备任意<shuzhi>1</>把物理/火焰武器，则驻场伤害提升至<shuzhi>{4}</>倍。此外，驻场伤害不受除泰坦装备稀有属性以外的增伤效果影响，也不会触发额外攻击效果。",
+        "GA_FPlayerCommodoreChangeSkill_Success_Des_OS": "当<red>武器充能满</>或触发<red>幻时</>时，从其他武器切换到该武器时<shuzhi>清除自身负面状态</>，对面前区域内的所有目标至多造成共<shuzhi>{0}%</>*攻击力+<shuzhi>{1}</>点伤害，期间免疫伤害持续<shuzhi>1.5</>秒（巅峰联赛不生效）。",
+        "Buff_Commodore_SSR_Level1_Des_OS": "<shuzhi>技能-突袭就绪</>效果的准备时间由9秒降低至<shuzhi>{0}</>秒，第五段普攻命中给所有命中怪物添加感电标记，<shuzhi>技能-瞬身连击</>会触发感电标记造成<shuzhi>3000%</>额外伤害。",
+        "Buff_Commodore_Imitation_Level2_Des_OS": "最终伤害提升<shuzhi>18%</>。\r\n<shuzhi>武器-AF-010侍者</>上阵获得<shuzhi>11%</>雷电伤害提升和<shuzhi>11%</>最终伤害提升。",
+        "Buff_Commodore_SSR_Level5_Des_OS": "自身获得无视目标15%雷电抗性效果（所有单个元素无视抗性总值不能超过50%）；由武器-AF-010侍者切换至其他武器时，根据武器-AF-010侍者的驻场时间回复<shuzhi>{1}%</>*秒的最大生命值，最多回复<shuzhi>{2}%</>。"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

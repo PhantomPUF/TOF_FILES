@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_QuestType",
+    "Class": "UScriptClass'StringTable'",
+    "StringTable": {
+      "TableNamespace": "ST_QuestType",
+      "KeysToEntries": {
+        "EQT_MAIN": "主线",
+        "EQT_SIDE": "支线",
+        "EQT_REWARD": "悬赏",
+        "EQT_BOOK": "书信",
+        "EQT_GUILD": "公会",
+        "EQT_GUIDE": "引导",
+        "EQT_IMITATION": "拟态",
+        "EQT_WEEKLY_REWARD": "安全部",
+        "EQT_MAIN_SIDE": "回忆",
+        "EQT_FUNCTION_ENABLE": "功能"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]
