@@ -25,7 +25,7 @@ TextureParameterValues[1] =
     TextureParameterValues[0] =
     {
         ParameterInfo = { Name=UI_Tex_01 }
-        ParameterValue = Texture2D'/Game/Resources/UI/BreakFate/activity_taofa/4.4'
+        ParameterValue = Texture2D'/Game/Resources/UI/BreakFate/activity_taofa/UI_HD_huangye_zhi2.UI_HD_huangye_zhi2'
         ParameterName = None
     }
 }

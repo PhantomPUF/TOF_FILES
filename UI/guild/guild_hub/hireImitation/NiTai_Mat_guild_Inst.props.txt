@@ -54,7 +54,7 @@ RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
 CachedReferencedTextures[2] =
 {
-    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/guild/guild_hub/hireImitation/employee_nitai_mask.employee_nitai_mask'
+    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/guild/guild_hub/hireImitation/gonghui_nitai_mask.gonghui_nitai_mask'
 }
 FlattenedTexture = None
 MobileBaseTexture = None
