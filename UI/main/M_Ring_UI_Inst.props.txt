@@ -82,6 +82,8 @@ RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
 CachedReferencedTextures[3] =
 {
+    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/main/hpline.hpline'
+    CachedReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Cowcatcher_TrailMask.T_Cowcatcher_TrailMask'
     CachedReferencedTextures[2] = Texture2D'/Game/TestMaps/Szy/PlaneParallax/13/000000003FE4.000000003FE4'
 }
 FlattenedTexture = None

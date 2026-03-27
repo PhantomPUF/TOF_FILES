@@ -1,9 +1,11 @@
 TwoSided = false
 bDisableDepthTest = false
 bIsMasked = false
-ReferencedTextures[1] =
+ReferencedTextures[3] =
 {
-    ReferencedTextures[0] = Texture2D'/Game/Resources/UI/reward_1/box_1_close.box_1_close'
+    ReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_LavaBlobs_01_H.T_LavaBlobs_01_H'
+    ReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Radial_Burst.T_Radial_Burst'
+    ReferencedTextures[2] = Texture2D'/Game/Resources/UI/reward_1/box_1_close.box_1_close'
 }
 Expressions[0] = {}
 CachedExpressionData =
@@ -25,6 +27,8 @@ CachedExpressionData =
     ReferencedTextures[3] =
     {
         ReferencedTextures[0] = Texture2D'/Game/Resources/UI/reward_1/box_1_close.box_1_close'
+        ReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_LavaBlobs_01_H.T_LavaBlobs_01_H'
+        ReferencedTextures[2] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Radial_Burst.T_Radial_Burst'
     }
 }
 BlendMode = BLEND_Additive (3)

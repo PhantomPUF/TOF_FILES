@@ -1,9 +1,13 @@
 TwoSided = false
 bDisableDepthTest = false
 bIsMasked = false
-ReferencedTextures[1] =
+ReferencedTextures[5] =
 {
-    ReferencedTextures[0] = Texture2D'/Game/Resources/UI/LotteryTicket/GuaCai/GGL_guajiang_GK_1.GGL_guajiang_GK_1'
+    ReferencedTextures[0] = Texture2D'/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse'
+    ReferencedTextures[1] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.DebugNumberStrip'
+    ReferencedTextures[2] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.DebugNumberPeriod'
+    ReferencedTextures[3] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.flipbook'
+    ReferencedTextures[4] = Texture2D'/Game/Resources/UI/LotteryTicket/GuaCai/GGL_guajiang_GK_1.GGL_guajiang_GK_1'
 }
 Expressions[0] = {}
 CachedExpressionData =
@@ -43,6 +47,10 @@ CachedExpressionData =
     }
     ReferencedTextures[6] =
     {
+        ReferencedTextures[1] = Texture2D'/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse'
+        ReferencedTextures[2] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.DebugNumberStrip'
+        ReferencedTextures[3] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.DebugNumberPeriod'
+        ReferencedTextures[4] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.flipbook'
         ReferencedTextures[5] = Texture2D'/Game/Resources/UI/LotteryTicket/GuaCai/GGL_guajiang_GK_1.GGL_guajiang_GK_1'
     }
 }

@@ -1,4 +1,4 @@
-Parent = None
+Parent = Material3'/Game/Resources/Effect/Materials/Misc/MP_HackerTerminal_01.MP_HackerTerminal_01'
 ScalarParameterValues[1] =
 {
     ScalarParameterValues[0] =
@@ -48,7 +48,12 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[3] = {  }
+CachedReferencedTextures[3] =
+{
+    CachedReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/UI/Common/T_HackerTerminal_07.T_HackerTerminal_07'
+    CachedReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/UI/Common/T_HackerTerminal_07a.T_HackerTerminal_07a'
+    CachedReferencedTextures[2] = Texture2D'/Game/Resources/Effect/Textures/UI/Common/T_HackerTerminal_07b.T_HackerTerminal_07b'
+}
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

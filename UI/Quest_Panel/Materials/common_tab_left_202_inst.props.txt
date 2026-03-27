@@ -1,10 +1,11 @@
 TwoSided = false
 bDisableDepthTest = false
 bIsMasked = false
-ReferencedTextures[2] =
+ReferencedTextures[3] =
 {
-    ReferencedTextures[0] = Texture2D'/Game/Resources/UI/Quest_Panel/RW_button_leixing01.RW_button_leixing01'
-    ReferencedTextures[1] = Texture2D'/Game/Resources/UI/Quest_Panel/RW_button_leixing02.RW_button_leixing02'
+    ReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/UI/Common/T_UI_Common_018b.T_UI_Common_018b'
+    ReferencedTextures[1] = Texture2D'/Game/Resources/UI/Quest_Panel/RW_button_leixing01.RW_button_leixing01'
+    ReferencedTextures[2] = Texture2D'/Game/Resources/UI/Quest_Panel/RW_button_leixing02.RW_button_leixing02'
 }
 Expressions[0] = {}
 CachedExpressionData =
@@ -39,12 +40,14 @@ CachedExpressionData =
         {
             TextureValues[0] = Texture2D'/Game/Resources/UI/Quest_Panel/RW_button_leixing01.RW_button_leixing01'
             TextureValues[1] = Texture2D'/Game/Resources/UI/Quest_Panel/RW_button_leixing02.RW_button_leixing02'
+            TextureValues[2] = Texture2D'/Game/Resources/Effect/Textures/UI/Common/T_UI_Common_018b.T_UI_Common_018b'
         }
     }
     ReferencedTextures[3] =
     {
         ReferencedTextures[0] = Texture2D'/Game/Resources/UI/Quest_Panel/RW_button_leixing02.RW_button_leixing02'
         ReferencedTextures[1] = Texture2D'/Game/Resources/UI/Quest_Panel/RW_button_leixing01.RW_button_leixing01'
+        ReferencedTextures[2] = Texture2D'/Game/Resources/Effect/Textures/UI/Common/T_UI_Common_018b.T_UI_Common_018b'
     }
 }
 BlendMode = BLEND_Translucent (2)
@@ -63,7 +66,12 @@ CollectedTextureParameters[3] =
         Name = checked
         Group = None
     }
-    CollectedTextureParameters[2] = { Texture=None, Name=Am_Mask_Tex, Group=None }
+    CollectedTextureParameters[2] =
+    {
+        Texture = Texture2D'/Game/Resources/Effect/Textures/UI/Common/T_UI_Common_018b.T_UI_Common_018b'
+        Name = Am_Mask_Tex
+        Group = None
+    }
 }
 CollectedScalarParameters[1] =
 {

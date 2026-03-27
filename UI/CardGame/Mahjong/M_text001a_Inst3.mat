@@ -1,0 +1,6 @@
+Diffuse=T_Digits
+Other[0]=DefaultDiffuse
+Other[1]=Good64x64TilingNoiseHighFreq
+Other[2]=DebugNumberStrip
+Other[3]=DebugNumberPeriod
+Other[4]=flipbook

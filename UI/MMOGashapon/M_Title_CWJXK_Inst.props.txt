@@ -72,7 +72,10 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[1] = {  }
+CachedReferencedTextures[1] =
+{
+    CachedReferencedTextures[0] = Texture2D'/Engine/EngineResources/DefaultTexture.DefaultTexture'
+}
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

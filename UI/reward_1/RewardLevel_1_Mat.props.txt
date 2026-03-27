@@ -1,9 +1,10 @@
 TwoSided = false
 bDisableDepthTest = false
 bIsMasked = false
-ReferencedTextures[1] =
+ReferencedTextures[2] =
 {
-    ReferencedTextures[0] = Texture2D'/Game/Resources/UI/reward_1/RewardLevel_1.RewardLevel_1'
+    ReferencedTextures[0] = Texture2D'/Game/Resources/UI/main/btn_auto2_Mask.btn_auto2_Mask'
+    ReferencedTextures[1] = Texture2D'/Game/Resources/UI/reward_1/RewardLevel_1.RewardLevel_1'
 }
 Expressions[0] = {}
 CachedExpressionData =
@@ -50,19 +51,26 @@ CachedExpressionData =
         }
         TextureValues[2] =
         {
+            TextureValues[0] = Texture2D'/Game/Resources/UI/main/btn_auto2_Mask.btn_auto2_Mask'
             TextureValues[1] = Texture2D'/Game/Resources/UI/reward_1/RewardLevel_1.RewardLevel_1'
         }
     }
     ReferencedTextures[2] =
     {
         ReferencedTextures[0] = Texture2D'/Game/Resources/UI/reward_1/RewardLevel_1.RewardLevel_1'
+        ReferencedTextures[1] = Texture2D'/Game/Resources/UI/main/btn_auto2_Mask.btn_auto2_Mask'
     }
 }
 BlendMode = BLEND_Translucent (2)
 OpacityMaskClipValue = 0.333
 CollectedTextureParameters[2] =
 {
-    CollectedTextureParameters[0] = { Texture=None, Name=ContourLightTex, Group=None }
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/Game/Resources/UI/main/btn_auto2_Mask.btn_auto2_Mask'
+        Name = ContourLightTex
+        Group = None
+    }
     CollectedTextureParameters[1] =
     {
         Texture = Texture2D'/Game/Resources/UI/reward_1/RewardLevel_1.RewardLevel_1'

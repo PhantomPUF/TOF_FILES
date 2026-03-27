@@ -1,9 +1,11 @@
 TwoSided = false
 bDisableDepthTest = false
 bIsMasked = false
-ReferencedTextures[1] =
+ReferencedTextures[3] =
 {
-    ReferencedTextures[0] = Texture2D'/Game/TestMaps/Szy/PlaneParallax/13/000000003FE4.000000003FE4'
+    ReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Cowcatcher_TrailMask.T_Cowcatcher_TrailMask'
+    ReferencedTextures[1] = Texture2D'/Game/Resources/UI/main/hpline.hpline'
+    ReferencedTextures[2] = Texture2D'/Game/TestMaps/Szy/PlaneParallax/13/000000003FE4.000000003FE4'
 }
 Expressions[0] = {}
 CachedExpressionData =
@@ -92,11 +94,15 @@ CachedExpressionData =
         }
         TextureValues[3] =
         {
+            TextureValues[0] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Cowcatcher_TrailMask.T_Cowcatcher_TrailMask'
             TextureValues[1] = Texture2D'/Game/TestMaps/Szy/PlaneParallax/13/000000003FE4.000000003FE4'
+            TextureValues[2] = Texture2D'/Game/Resources/UI/main/hpline.hpline'
         }
     }
     ReferencedTextures[3] =
     {
+        ReferencedTextures[0] = Texture2D'/Game/Resources/UI/main/hpline.hpline'
+        ReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Cowcatcher_TrailMask.T_Cowcatcher_TrailMask'
         ReferencedTextures[2] = Texture2D'/Game/TestMaps/Szy/PlaneParallax/13/000000003FE4.000000003FE4'
     }
 }
@@ -104,14 +110,24 @@ BlendMode = BLEND_Translucent (2)
 OpacityMaskClipValue = 0.333
 CollectedTextureParameters[3] =
 {
-    CollectedTextureParameters[0] = { Texture=None, Name=Tex_Gradation, Group=None }
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Cowcatcher_TrailMask.T_Cowcatcher_TrailMask'
+        Name = Tex_Gradation
+        Group = None
+    }
     CollectedTextureParameters[1] =
     {
         Texture = Texture2D'/Game/TestMaps/Szy/PlaneParallax/13/000000003FE4.000000003FE4'
         Name = UI_Mask
         Group = None
     }
-    CollectedTextureParameters[2] = { Texture=None, Name=UI_Tex, Group=None }
+    CollectedTextureParameters[2] =
+    {
+        Texture = Texture2D'/Game/Resources/UI/main/hpline.hpline'
+        Name = UI_Tex
+        Group = None
+    }
 }
 CollectedScalarParameters[17] =
 {

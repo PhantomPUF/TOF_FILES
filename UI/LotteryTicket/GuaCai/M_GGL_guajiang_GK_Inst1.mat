@@ -1,1 +1,5 @@
-Diffuse=GGL_guajiang_GK_1
+Diffuse=DefaultDiffuse
+Other[0]=GGL_guajiang_GK_1
+Other[1]=DebugNumberStrip
+Other[2]=DebugNumberPeriod
+Other[3]=flipbook

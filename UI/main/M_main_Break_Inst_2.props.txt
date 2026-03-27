@@ -70,7 +70,10 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[1] = {  }
+CachedReferencedTextures[1] =
+{
+    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/main/hpline.hpline'
+}
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

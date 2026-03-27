@@ -39,6 +39,7 @@ FontParameterValues[0] = {}
 CachedReferencedTextures[2] =
 {
     CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/MLESushe/Oran_LMXX.Oran_LMXX'
+    CachedReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Fire/T_fire_Strip_001.T_fire_Strip_001'
 }
 FlattenedTexture = None
 MobileBaseTexture = None

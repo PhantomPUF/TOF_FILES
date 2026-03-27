@@ -1,9 +1,10 @@
 TwoSided = false
 bDisableDepthTest = false
 bIsMasked = false
-ReferencedTextures[1] =
+ReferencedTextures[2] =
 {
-    ReferencedTextures[0] = Texture2D'/Game/Resources/UI/mall/PandT/Duikang_SD_lihui_GLY_zhezhao.Duikang_SD_lihui_GLY_zhezhao'
+    ReferencedTextures[0] = Texture2D'/Game/Resources/UI/common/common_empty.common_empty'
+    ReferencedTextures[1] = Texture2D'/Game/Resources/UI/mall/PandT/Duikang_SD_lihui_GLY_zhezhao.Duikang_SD_lihui_GLY_zhezhao'
 }
 Expressions[0] = {}
 CachedExpressionData =
@@ -30,10 +31,12 @@ CachedExpressionData =
         TextureValues[2] =
         {
             TextureValues[0] = Texture2D'/Game/Resources/UI/mall/PandT/Duikang_SD_lihui_GLY_zhezhao.Duikang_SD_lihui_GLY_zhezhao'
+            TextureValues[1] = Texture2D'/Game/Resources/UI/common/common_empty.common_empty'
         }
     }
     ReferencedTextures[2] =
     {
+        ReferencedTextures[0] = Texture2D'/Game/Resources/UI/common/common_empty.common_empty'
         ReferencedTextures[1] = Texture2D'/Game/Resources/UI/mall/PandT/Duikang_SD_lihui_GLY_zhezhao.Duikang_SD_lihui_GLY_zhezhao'
     }
 }
@@ -47,7 +50,12 @@ CollectedTextureParameters[2] =
         Name = Round
         Group = None
     }
-    CollectedTextureParameters[1] = { Texture=None, Name=Texture, Group=None }
+    CollectedTextureParameters[1] =
+    {
+        Texture = Texture2D'/Game/Resources/UI/common/common_empty.common_empty'
+        Name = Texture
+        Group = None
+    }
 }
 CollectedScalarParameters[0] = {}
 CollectedVectorParameters[0] = {}

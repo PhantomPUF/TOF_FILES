@@ -1,10 +1,11 @@
 TwoSided = false
 bDisableDepthTest = false
 bIsMasked = false
-ReferencedTextures[2] =
+ReferencedTextures[3] =
 {
-    ReferencedTextures[0] = Texture2D'/Game/Resources/UI/makeup/Makeup_ditu.Makeup_ditu'
-    ReferencedTextures[1] = Texture2D'/Game/Resources/UI/makeup/Makeup_ditu_SM.Makeup_ditu_SM'
+    ReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_LavaBlobs_01_H.T_LavaBlobs_01_H'
+    ReferencedTextures[1] = Texture2D'/Game/Resources/UI/makeup/Makeup_ditu.Makeup_ditu'
+    ReferencedTextures[2] = Texture2D'/Game/Resources/UI/makeup/Makeup_ditu_SM.Makeup_ditu_SM'
 }
 Expressions[0] = {}
 CachedExpressionData =
@@ -53,6 +54,7 @@ CachedExpressionData =
     {
         ReferencedTextures[0] = Texture2D'/Game/Resources/UI/makeup/Makeup_ditu.Makeup_ditu'
         ReferencedTextures[1] = Texture2D'/Game/Resources/UI/makeup/Makeup_ditu_SM.Makeup_ditu_SM'
+        ReferencedTextures[2] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_LavaBlobs_01_H.T_LavaBlobs_01_H'
     }
 }
 BlendMode = BLEND_Translucent (2)

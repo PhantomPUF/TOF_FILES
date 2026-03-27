@@ -1,4 +1,4 @@
-Parent = None
+Parent = Material3'/Game/Resources/Effect/Materials/A_Parents/MP_Parent_01.MP_Parent_01'
 ScalarParameterValues[5] =
 {
     ScalarParameterValues[0] =
@@ -79,7 +79,13 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[4] = {  }
+CachedReferencedTextures[4] =
+{
+    CachedReferencedTextures[0] = Texture2D'/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq.Good64x64TilingNoiseHighFreq'
+    CachedReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Materials/A_Parents/T_Parent01.T_Parent01'
+    CachedReferencedTextures[2] = Texture2D'/Game/Resources/Effect/Materials/A_Parents/T_Parent01n.T_Parent01n'
+    CachedReferencedTextures[3] = Texture2D'/Game/Resources/Effect/Textures/Tiles/T_Tiles006.T_Tiles006'
+}
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

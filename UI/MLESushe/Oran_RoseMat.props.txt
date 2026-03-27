@@ -1,9 +1,10 @@
 TwoSided = false
 bDisableDepthTest = false
 bIsMasked = false
-ReferencedTextures[1] =
+ReferencedTextures[2] =
 {
-    ReferencedTextures[0] = Texture2D'/Game/Resources/UI/MLESushe/Oran_LMXX.Oran_LMXX'
+    ReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/Fire/T_fire_Strip_001.T_fire_Strip_001'
+    ReferencedTextures[1] = Texture2D'/Game/Resources/UI/MLESushe/Oran_LMXX.Oran_LMXX'
 }
 Expressions[0] = {}
 CachedExpressionData =
@@ -53,11 +54,13 @@ CachedExpressionData =
         TextureValues[2] =
         {
             TextureValues[0] = Texture2D'/Game/Resources/UI/MLESushe/Oran_LMXX.Oran_LMXX'
+            TextureValues[1] = Texture2D'/Game/Resources/Effect/Textures/Fire/T_fire_Strip_001.T_fire_Strip_001'
         }
     }
     ReferencedTextures[2] =
     {
         ReferencedTextures[0] = Texture2D'/Game/Resources/UI/MLESushe/Oran_LMXX.Oran_LMXX'
+        ReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Fire/T_fire_Strip_001.T_fire_Strip_001'
     }
 }
 BlendMode = BLEND_Additive (3)
@@ -70,7 +73,12 @@ CollectedTextureParameters[2] =
         Name = Tex01
         Group = None
     }
-    CollectedTextureParameters[1] = { Texture=None, Name=ColorTex, Group=None }
+    CollectedTextureParameters[1] =
+    {
+        Texture = Texture2D'/Game/Resources/Effect/Textures/Fire/T_fire_Strip_001.T_fire_Strip_001'
+        Name = ColorTex
+        Group = None
+    }
 }
 CollectedScalarParameters[7] =
 {

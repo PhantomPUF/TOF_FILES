@@ -44,6 +44,10 @@ RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
 CachedReferencedTextures[6] =
 {
+    CachedReferencedTextures[1] = Texture2D'/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse'
+    CachedReferencedTextures[2] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.DebugNumberStrip'
+    CachedReferencedTextures[3] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.DebugNumberPeriod'
+    CachedReferencedTextures[4] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.flipbook'
     CachedReferencedTextures[5] = Texture2D'/Game/Resources/UI/LotteryTicket/GuaCai/GGL_guajiang_GK_1.GGL_guajiang_GK_1'
 }
 FlattenedTexture = None

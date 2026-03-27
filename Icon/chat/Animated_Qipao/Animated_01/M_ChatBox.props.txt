@@ -1,13 +1,14 @@
 TwoSided = false
 bDisableDepthTest = false
 bIsMasked = false
-ReferencedTextures[5] =
+ReferencedTextures[6] =
 {
-    ReferencedTextures[0] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao01.Animated_Qipao01'
-    ReferencedTextures[1] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao02.Animated_Qipao02'
-    ReferencedTextures[2] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao03.Animated_Qipao03'
-    ReferencedTextures[3] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao04.Animated_Qipao04'
-    ReferencedTextures[4] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao05.Animated_Qipao05'
+    ReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
+    ReferencedTextures[1] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao01.Animated_Qipao01'
+    ReferencedTextures[2] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao02.Animated_Qipao02'
+    ReferencedTextures[3] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao03.Animated_Qipao03'
+    ReferencedTextures[4] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao04.Animated_Qipao04'
+    ReferencedTextures[5] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao05.Animated_Qipao05'
 }
 Expressions[0] = {}
 CachedExpressionData =
@@ -79,8 +80,12 @@ CachedExpressionData =
             TextureValues[0] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao03.Animated_Qipao03'
             TextureValues[1] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao05.Animated_Qipao05'
             TextureValues[2] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao02.Animated_Qipao02'
+            TextureValues[3] = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
+            TextureValues[4] = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
             TextureValues[5] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao04.Animated_Qipao04'
             TextureValues[6] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao01.Animated_Qipao01'
+            TextureValues[7] = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
+            TextureValues[8] = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
         }
     }
     ReferencedTextures[6] =
@@ -89,6 +94,7 @@ CachedExpressionData =
         ReferencedTextures[1] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao02.Animated_Qipao02'
         ReferencedTextures[2] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao04.Animated_Qipao04'
         ReferencedTextures[3] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao01.Animated_Qipao01'
+        ReferencedTextures[4] = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
         ReferencedTextures[5] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao05.Animated_Qipao05'
     }
 }
@@ -114,8 +120,18 @@ CollectedTextureParameters[9] =
         Name = Tex02
         Group = None
     }
-    CollectedTextureParameters[3] = { Texture=None, Name=NoiseMap003, Group=None }
-    CollectedTextureParameters[4] = { Texture=None, Name=NoiseMap004, Group=None }
+    CollectedTextureParameters[3] =
+    {
+        Texture = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
+        Name = NoiseMap003
+        Group = None
+    }
+    CollectedTextureParameters[4] =
+    {
+        Texture = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
+        Name = NoiseMap004
+        Group = None
+    }
     CollectedTextureParameters[5] =
     {
         Texture = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao04.Animated_Qipao04'
@@ -128,8 +144,18 @@ CollectedTextureParameters[9] =
         Name = Tex04
         Group = None
     }
-    CollectedTextureParameters[7] = { Texture=None, Name=NoiseMap001, Group=None }
-    CollectedTextureParameters[8] = { Texture=None, Name=NoiseMap002, Group=None }
+    CollectedTextureParameters[7] =
+    {
+        Texture = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
+        Name = NoiseMap001
+        Group = None
+    }
+    CollectedTextureParameters[8] =
+    {
+        Texture = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
+        Name = NoiseMap002
+        Group = None
+    }
 }
 CollectedScalarParameters[4] =
 {

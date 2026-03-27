@@ -1,4 +1,4 @@
-Parent = None
+Parent = Material3'/Game/Resources/UI/monster/M_UI_Monster.M_UI_Monster'
 ScalarParameterValues[7] =
 {
     ScalarParameterValues[0] =
@@ -78,7 +78,13 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[4] = {  }
+CachedReferencedTextures[4] =
+{
+    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/monster/T_UI_Question_01.T_UI_Question_01'
+    CachedReferencedTextures[1] = Texture2D'/Game/Resources/UI/monster/T_UI_Question_02.T_UI_Question_02'
+    CachedReferencedTextures[2] = Texture2D'/Game/Resources/UI/monster/T_UI_sword_03.T_UI_sword_03'
+    CachedReferencedTextures[3] = Texture2D'/Game/Resources/UI/monster/T_UI_sword_02.T_UI_sword_02'
+}
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

@@ -49,13 +49,13 @@ TextureParameterValues[3] =
     TextureParameterValues[1] =
     {
         ParameterInfo = { Name=Mask_Tex }
-        ParameterValue = None
+        ParameterValue = Texture2D'/Game/Resources/Effect/Textures/Energy/T_EnergyA005.T_EnergyA005'
         ParameterName = None
     }
     TextureParameterValues[2] =
     {
         ParameterInfo = { Name=Mask_Tex02 }
-        ParameterValue = None
+        ParameterValue = Texture2D'/Game/Resources/Effect/Textures/Energy/T_EnergyA005.T_EnergyA005'
         ParameterName = None
     }
 }
@@ -104,7 +104,12 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[3] = {  }
+CachedReferencedTextures[3] =
+{
+    CachedReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
+    CachedReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Energy/T_EnergyA001.T_EnergyA001'
+    CachedReferencedTextures[2] = Texture2D'/Game/Resources/Effect/Textures/Energy/T_EnergyA005.T_EnergyA005'
+}
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

@@ -43,31 +43,31 @@ TextureParameterValues[5] =
     TextureParameterValues[0] =
     {
         ParameterInfo = { Name=ContourLightTex }
-        ParameterValue = None
+        ParameterValue = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask013b.T_Mask013b'
         ParameterName = None
     }
     TextureParameterValues[1] =
     {
         ParameterInfo = { Name=ContourmaskTex }
-        ParameterValue = None
+        ParameterValue = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Gradation_vertical02.T_Gradation_vertical02'
         ParameterName = None
     }
     TextureParameterValues[2] =
     {
         ParameterInfo = { Name=UI_Tex }
-        ParameterValue = Texture2D'/Game/Resources/UI/AdvancedGashapon/Suxiu/UI_YCQL_zi.UI_YCQL_zi'
+        ParameterValue = Texture2D'/Game/Resources/UI/AdvancedGashapon/mimi/UI_YCQL_zi.UI_YCQL_zi'
         ParameterName = None
     }
     TextureParameterValues[3] =
     {
         ParameterInfo = { Name=NoiseMap }
-        ParameterValue = None
+        ParameterValue = Texture2D'/Game/Resources/Effect/Textures/Tiles/T_Noise003.T_Noise003'
         ParameterName = None
     }
     TextureParameterValues[4] =
     {
         ParameterInfo = { Name=NoiseMask }
-        ParameterValue = None
+        ParameterValue = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Health_Gradient.T_Health_Gradient'
         ParameterName = None
     }
 }
@@ -165,7 +165,13 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[4] = {  }
+CachedReferencedTextures[4] =
+{
+    CachedReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/UI/Common/T_UI_Common_002.T_UI_Common_002'
+    CachedReferencedTextures[1] = Texture2D'/Game/Resources/UI/main/btn_auto2_Mask.btn_auto2_Mask'
+    CachedReferencedTextures[2] = Texture2D'/Game/Resources/Effect/Textures/Tiles/T_Noise003.T_Noise003'
+    CachedReferencedTextures[3] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Cowcatcher_TrailMask.T_Cowcatcher_TrailMask'
+}
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

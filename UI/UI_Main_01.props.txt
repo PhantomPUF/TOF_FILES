@@ -1,10 +1,19 @@
 TwoSided = false
 bDisableDepthTest = false
 bIsMasked = false
-ReferencedTextures[2] =
+ReferencedTextures[11] =
 {
-    ReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask014.T_Mask014'
-    ReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask029.T_Mask029'
+    ReferencedTextures[0] = Texture2D'/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse'
+    ReferencedTextures[1] = Texture2D'/Engine/EngineResources/DefaultTexture.DefaultTexture'
+    ReferencedTextures[2] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.DebugNumberStrip'
+    ReferencedTextures[3] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.DebugNumberPeriod'
+    ReferencedTextures[4] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.flipbook'
+    ReferencedTextures[5] = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
+    ReferencedTextures[6] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_circuit_003.T_circuit_003'
+    ReferencedTextures[7] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask014.T_Mask014'
+    ReferencedTextures[8] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask029.T_Mask029'
+    ReferencedTextures[9] = Texture2D'/Game/Resources/Icon/Avatar/Anm/T_MaskIcon001.T_MaskIcon001'
+    ReferencedTextures[10] = Texture2D'/Game/Resources/UI/Recover/huoli_.huoli_'
 }
 Expressions[0] = {}
 CachedExpressionData =
@@ -167,25 +176,78 @@ CachedExpressionData =
             VectorValues[5] = { R=0, G=0, B=0, A=1 }
             VectorValues[6] = { R=1, G=1, B=0, A=0 }
         }
-        TextureValues[7] = {  }
+        TextureValues[7] =
+        {
+            TextureValues[0] = Texture2D'/Engine/EngineResources/DefaultTexture.DefaultTexture'
+            TextureValues[1] = Texture2D'/Game/Resources/Icon/Avatar/Anm/T_MaskIcon001.T_MaskIcon001'
+            TextureValues[2] = Texture2D'/Engine/EngineResources/DefaultTexture.DefaultTexture'
+            TextureValues[3] = Texture2D'/Game/Resources/UI/Recover/huoli_.huoli_'
+            TextureValues[4] = Texture2D'/Engine/EngineResources/DefaultTexture.DefaultTexture'
+            TextureValues[5] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_circuit_003.T_circuit_003'
+            TextureValues[6] = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
+        }
     }
     ReferencedTextures[12] =
     {
+        ReferencedTextures[0] = Texture2D'/Engine/EngineResources/DefaultTexture.DefaultTexture'
         ReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask014.T_Mask014'
+        ReferencedTextures[3] = Texture2D'/Engine/EngineMaterials/DefaultDiffuse.DefaultDiffuse'
+        ReferencedTextures[4] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.DebugNumberStrip'
+        ReferencedTextures[5] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.DebugNumberPeriod'
+        ReferencedTextures[6] = Texture2D'/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.flipbook'
         ReferencedTextures[7] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Mask029.T_Mask029'
+        ReferencedTextures[8] = Texture2D'/Game/Resources/UI/Recover/huoli_.huoli_'
+        ReferencedTextures[9] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_circuit_003.T_circuit_003'
+        ReferencedTextures[10] = Texture2D'/Game/Resources/Icon/Avatar/Anm/T_MaskIcon001.T_MaskIcon001'
+        ReferencedTextures[11] = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
     }
 }
 BlendMode = BLEND_Translucent (2)
 OpacityMaskClipValue = 0.333
 CollectedTextureParameters[7] =
 {
-    CollectedTextureParameters[0] = { Texture=None, Name=Sweep_Tex, Group=None }
-    CollectedTextureParameters[1] = { Texture=None, Name=Details_Mask, Group=None }
-    CollectedTextureParameters[2] = { Texture=None, Name=BaseTex02, Group=None }
-    CollectedTextureParameters[3] = { Texture=None, Name=Tex_Mask, Group=None }
-    CollectedTextureParameters[4] = { Texture=None, Name=UI_Tex_01, Group=None }
-    CollectedTextureParameters[5] = { Texture=None, Name=Details_Tex, Group=None }
-    CollectedTextureParameters[6] = { Texture=None, Name=DissolveTex, Group=None }
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/Engine/EngineResources/DefaultTexture.DefaultTexture'
+        Name = Sweep_Tex
+        Group = None
+    }
+    CollectedTextureParameters[1] =
+    {
+        Texture = Texture2D'/Game/Resources/Icon/Avatar/Anm/T_MaskIcon001.T_MaskIcon001'
+        Name = Details_Mask
+        Group = None
+    }
+    CollectedTextureParameters[2] =
+    {
+        Texture = Texture2D'/Engine/EngineResources/DefaultTexture.DefaultTexture'
+        Name = BaseTex02
+        Group = None
+    }
+    CollectedTextureParameters[3] =
+    {
+        Texture = Texture2D'/Game/Resources/UI/Recover/huoli_.huoli_'
+        Name = Tex_Mask
+        Group = None
+    }
+    CollectedTextureParameters[4] =
+    {
+        Texture = Texture2D'/Engine/EngineResources/DefaultTexture.DefaultTexture'
+        Name = UI_Tex_01
+        Group = None
+    }
+    CollectedTextureParameters[5] =
+    {
+        Texture = Texture2D'/Game/Resources/Effect/Textures/Masks/T_circuit_003.T_circuit_003'
+        Name = Details_Tex
+        Group = None
+    }
+    CollectedTextureParameters[6] =
+    {
+        Texture = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
+        Name = DissolveTex
+        Group = None
+    }
 }
 CollectedScalarParameters[53] =
 {
