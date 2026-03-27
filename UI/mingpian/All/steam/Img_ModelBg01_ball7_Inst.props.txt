@@ -1,0 +1,140 @@
+Parent = Material3'/Game/Resources/UI/mingpian/All/steam/Img_ModelBg01_ball7.Img_ModelBg01_ball7'
+ScalarParameterValues[2] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=Brightness }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[6] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseTex001 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_Zhezhao.Img_ModelBgZXSL_Zhezhao'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=BaseTex002 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL.Img_ModelBgZXSL'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=BaseTex003 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl02.Img_ModelBgZXSL_cl02'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=BaseTex004 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl03.Img_ModelBgZXSL_cl03'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=BaseTex005 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl01.Img_ModelBgZXSL_cl01'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=BaseTex006 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl04.Img_ModelBgZXSL_cl04'
+        ParameterName = None
+    }
+}
+VectorParameterValues[8] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=revolution }
+        ParameterValue = { R=0.242857, G=2, B=0, A=0.7 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=revolution02 }
+        ParameterValue = { R=-0.192218, G=0, B=0, A=0.561905 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=revolution03 }
+        ParameterValue = { R=0.1, G=0, B=0, A=0.571428 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=revolution04 }
+        ParameterValue = { R=0.1, G=0, B=0, A=0.45 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=UV }
+        ParameterValue = { R=-0.433333, G=0, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=UV02 }
+        ParameterValue = { R=-0.361905, G=-0.352381, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=UV03 }
+        ParameterValue = { R=0.466667, G=0.266667, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=UV04 }
+        ParameterValue = { R=0.314285, G=-0.466667, B=0, A=1 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Translucent (2)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+CachedReferencedTextures[5] =
+{
+    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_Zhezhao.Img_ModelBgZXSL_Zhezhao'
+    CachedReferencedTextures[1] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL.Img_ModelBgZXSL'
+    CachedReferencedTextures[2] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl03.Img_ModelBgZXSL_cl03'
+    CachedReferencedTextures[3] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl01.Img_ModelBgZXSL_cl01'
+    CachedReferencedTextures[4] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl04.Img_ModelBgZXSL_cl04'
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

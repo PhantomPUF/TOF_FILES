@@ -1,0 +1,189 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[5] =
+{
+    ReferencedTextures[0] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL.Img_ModelBgZXSL'
+    ReferencedTextures[1] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl01.Img_ModelBgZXSL_cl01'
+    ReferencedTextures[2] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl03.Img_ModelBgZXSL_cl03'
+    ReferencedTextures[3] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl04.Img_ModelBgZXSL_cl04'
+    ReferencedTextures[4] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_Zhezhao.Img_ModelBgZXSL_Zhezhao'
+}
+Expressions[0] = {}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] =
+            {
+                ParameterInfos[1] =
+                {
+                    ParameterInfos[0] = { Name=Brightness }
+                }
+            }
+            Entries[1] =
+            {
+                ParameterInfos[8] =
+                {
+                    ParameterInfos[0] = { Name=revolution04 }
+                    ParameterInfos[1] = { Name=UV04 }
+                    ParameterInfos[2] = { Name=revolution }
+                    ParameterInfos[3] = { Name=revolution03 }
+                    ParameterInfos[4] = { Name=UV02 }
+                    ParameterInfos[5] = { Name=UV }
+                    ParameterInfos[6] = { Name=revolution02 }
+                    ParameterInfos[7] = { Name=UV03 }
+                }
+            }
+            Entries[2] =
+            {
+                ParameterInfos[6] =
+                {
+                    ParameterInfos[0] = { Name=BaseTex002 }
+                    ParameterInfos[1] = { Name=BaseTex005 }
+                    ParameterInfos[2] = { Name=BaseTex003 }
+                    ParameterInfos[3] = { Name=BaseTex004 }
+                    ParameterInfos[4] = { Name=BaseTex001 }
+                    ParameterInfos[5] = { Name=BaseTex006 }
+                }
+            }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[1] = { 2 }
+        VectorValues[8] =
+        {
+            VectorValues[0] = { R=0.5, G=0, B=0, A=1 }
+            VectorValues[1] = { R=1, G=1, B=0, A=1 }
+            VectorValues[2] = { R=0.5, G=0, B=0, A=1 }
+            VectorValues[3] = { R=0.5, G=0, B=0, A=1 }
+            VectorValues[4] = { R=1, G=1, B=0, A=1 }
+            VectorValues[5] = { R=1, G=1, B=0, A=1 }
+            VectorValues[6] = { R=0.5, G=0, B=0, A=1 }
+            VectorValues[7] = { R=1, G=1, B=0, A=1 }
+        }
+        TextureValues[6] =
+        {
+            TextureValues[0] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL.Img_ModelBgZXSL'
+            TextureValues[1] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl03.Img_ModelBgZXSL_cl03'
+            TextureValues[2] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl01.Img_ModelBgZXSL_cl01'
+            TextureValues[3] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl03.Img_ModelBgZXSL_cl03'
+            TextureValues[4] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_Zhezhao.Img_ModelBgZXSL_Zhezhao'
+            TextureValues[5] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl04.Img_ModelBgZXSL_cl04'
+        }
+    }
+    ReferencedTextures[5] =
+    {
+        ReferencedTextures[0] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_Zhezhao.Img_ModelBgZXSL_Zhezhao'
+        ReferencedTextures[1] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL.Img_ModelBgZXSL'
+        ReferencedTextures[2] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl03.Img_ModelBgZXSL_cl03'
+        ReferencedTextures[3] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl01.Img_ModelBgZXSL_cl01'
+        ReferencedTextures[4] = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl04.Img_ModelBgZXSL_cl04'
+    }
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[6] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL.Img_ModelBgZXSL'
+        Name = BaseTex002
+        Group = None
+    }
+    CollectedTextureParameters[1] =
+    {
+        Texture = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl03.Img_ModelBgZXSL_cl03'
+        Name = BaseTex005
+        Group = None
+    }
+    CollectedTextureParameters[2] =
+    {
+        Texture = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl01.Img_ModelBgZXSL_cl01'
+        Name = BaseTex003
+        Group = None
+    }
+    CollectedTextureParameters[3] =
+    {
+        Texture = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl03.Img_ModelBgZXSL_cl03'
+        Name = BaseTex004
+        Group = None
+    }
+    CollectedTextureParameters[4] =
+    {
+        Texture = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_Zhezhao.Img_ModelBgZXSL_Zhezhao'
+        Name = BaseTex001
+        Group = None
+    }
+    CollectedTextureParameters[5] =
+    {
+        Texture = Texture2D'/Game/Resources/UI/mingpian/All/steam/Img_ModelBgZXSL_cl04.Img_ModelBgZXSL_cl04'
+        Name = BaseTex006
+        Group = None
+    }
+}
+CollectedScalarParameters[1] =
+{
+    CollectedScalarParameters[0] = { Value=2, Name=Brightness, Group=None }
+}
+CollectedVectorParameters[8] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=0.5, G=0, B=0, A=1 }
+        Name = revolution04
+        Group = None
+    }
+    CollectedVectorParameters[1] =
+    {
+        Value = { R=1, G=1, B=0, A=1 }
+        Name = UV04
+        Group = None
+    }
+    CollectedVectorParameters[2] =
+    {
+        Value = { R=0.5, G=0, B=0, A=1 }
+        Name = revolution
+        Group = None
+    }
+    CollectedVectorParameters[3] =
+    {
+        Value = { R=0.5, G=0, B=0, A=1 }
+        Name = revolution03
+        Group = None
+    }
+    CollectedVectorParameters[4] =
+    {
+        Value = { R=1, G=1, B=0, A=1 }
+        Name = UV02
+        Group = None
+    }
+    CollectedVectorParameters[5] =
+    {
+        Value = { R=1, G=1, B=0, A=1 }
+        Name = UV
+        Group = None
+    }
+    CollectedVectorParameters[6] =
+    {
+        Value = { R=0.5, G=0, B=0, A=1 }
+        Name = revolution02
+        Group = None
+    }
+    CollectedVectorParameters[7] =
+    {
+        Value = { R=1, G=1, B=0, A=1 }
+        Name = UV03
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

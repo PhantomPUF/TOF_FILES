@@ -1,0 +1,347 @@
+Parent = Material3'/Game/Resources/UI/mingpian/All/SpringFestival/M_Img_NmCardSpringFestival.M_Img_NmCardSpringFestival'
+ScalarParameterValues[26] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=huangdong 4 }
+        ParameterValue = 0.015
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=swing4 }
+        ParameterValue = 0.003
+        ParameterName = None
+    }
+    ScalarParameterValues[2] =
+    {
+        ParameterInfo = { Name=Shaking7 }
+        ParameterValue = 0.01
+        ParameterName = None
+    }
+    ScalarParameterValues[3] =
+    {
+        ParameterInfo = { Name=swing7 }
+        ParameterValue = 0.003
+        ParameterName = None
+    }
+    ScalarParameterValues[4] =
+    {
+        ParameterInfo = { Name=NoiseIntensity008 }
+        ParameterValue = 0.030476
+        ParameterName = None
+    }
+    ScalarParameterValues[5] =
+    {
+        ParameterInfo = { Name=NoiseIntensity009 }
+        ParameterValue = 0.060953
+        ParameterName = None
+    }
+    ScalarParameterValues[6] =
+    {
+        ParameterInfo = { Name=huangdong 10 }
+        ParameterValue = 0.007619
+        ParameterName = None
+    }
+    ScalarParameterValues[7] =
+    {
+        ParameterInfo = { Name=swing10 }
+        ParameterValue = 0.015238
+        ParameterName = None
+    }
+    ScalarParameterValues[8] =
+    {
+        ParameterInfo = { Name=Twist Power10 }
+        ParameterValue = 0.060953
+        ParameterName = None
+    }
+    ScalarParameterValues[9] =
+    {
+        ParameterInfo = { Name=HUANGDONG 11 }
+        ParameterValue = 0.005
+        ParameterName = None
+    }
+    ScalarParameterValues[10] =
+    {
+        ParameterInfo = { Name=swing11 }
+        ParameterValue = 0.015
+        ParameterName = None
+    }
+    ScalarParameterValues[11] =
+    {
+        ParameterInfo = { Name=Twist Power11 }
+        ParameterValue = 0.068095
+        ParameterName = None
+    }
+    ScalarParameterValues[12] =
+    {
+        ParameterInfo = { Name=huangdong12 }
+        ParameterValue = 0.106667
+        ParameterName = None
+    }
+    ScalarParameterValues[13] =
+    {
+        ParameterInfo = { Name=Twist Power12 }
+        ParameterValue = 0.487619
+        ParameterName = None
+    }
+    ScalarParameterValues[14] =
+    {
+        ParameterInfo = { Name=UV12 }
+        ParameterValue = 0.731429
+        ParameterName = None
+    }
+    ScalarParameterValues[15] =
+    {
+        ParameterInfo = { Name=yaobai12 }
+        ParameterValue = 0.099048
+        ParameterName = None
+    }
+    ScalarParameterValues[16] =
+    {
+        ParameterInfo = { Name=huangdong }
+        ParameterValue = 0.045714
+        ParameterName = None
+    }
+    ScalarParameterValues[17] =
+    {
+        ParameterInfo = { Name=Twist Power13 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[18] =
+    {
+        ParameterInfo = { Name=YAOBAI13 }
+        ParameterValue = 0.07619
+        ParameterName = None
+    }
+    ScalarParameterValues[19] =
+    {
+        ParameterInfo = { Name=HUANGDONG14 }
+        ParameterValue = 0.08381
+        ParameterName = None
+    }
+    ScalarParameterValues[20] =
+    {
+        ParameterInfo = { Name=Twist Power14 }
+        ParameterValue = 1.32548
+        ParameterName = None
+    }
+    ScalarParameterValues[21] =
+    {
+        ParameterInfo = { Name=YAOBAI14 }
+        ParameterValue = 0.091429
+        ParameterName = None
+    }
+    ScalarParameterValues[22] =
+    {
+        ParameterInfo = { Name=HUANGDONG15 }
+        ParameterValue = 0.167619
+        ParameterName = None
+    }
+    ScalarParameterValues[23] =
+    {
+        ParameterInfo = { Name=Twist Power15 }
+        ParameterValue = 0
+        ParameterName = None
+    }
+    ScalarParameterValues[24] =
+    {
+        ParameterInfo = { Name=YAOBAI15 }
+        ParameterValue = 0.167619
+        ParameterName = None
+    }
+    ScalarParameterValues[25] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[13] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=Param0 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival0.Img_NmCardSpringFestival0'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=Param1 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival1.Img_NmCardSpringFestival1'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Param4 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival13.Img_NmCardSpringFestival13'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Param6 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival5.Img_NmCardSpringFestival5'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=Param7 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival6.Img_NmCardSpringFestival6'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=Param8 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival7.Img_NmCardSpringFestival7'
+        ParameterName = None
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterInfo = { Name=Param9 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival8.Img_NmCardSpringFestival8'
+        ParameterName = None
+    }
+    TextureParameterValues[7] =
+    {
+        ParameterInfo = { Name=Param10 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival9.Img_NmCardSpringFestival9'
+        ParameterName = None
+    }
+    TextureParameterValues[8] =
+    {
+        ParameterInfo = { Name=Param11 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival13.Img_NmCardSpringFestival13'
+        ParameterName = None
+    }
+    TextureParameterValues[9] =
+    {
+        ParameterInfo = { Name=Param12 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival11.Img_NmCardSpringFestival11'
+        ParameterName = None
+    }
+    TextureParameterValues[10] =
+    {
+        ParameterInfo = { Name=Param13 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival15.Img_NmCardSpringFestival15'
+        ParameterName = None
+    }
+    TextureParameterValues[11] =
+    {
+        ParameterInfo = { Name=Param14 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival15.Img_NmCardSpringFestival15'
+        ParameterName = None
+    }
+    TextureParameterValues[12] =
+    {
+        ParameterInfo = { Name=Param15 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival16.Img_NmCardSpringFestival16'
+        ParameterName = None
+    }
+}
+VectorParameterValues[10] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=UVV4 }
+        ParameterValue = { R=-0.542, G=0.297143, B=0.14, A=0.24 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=UVV7 }
+        ParameterValue = { R=0.412, G=0.312381, B=0.14, A=0.24 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=UV8 }
+        ParameterValue = { R=-0.335, G=-0.265, B=0.252, A=0.355 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=UV9 }
+        ParameterValue = { R=0.33, G=-0.265, B=0.252, A=0.355 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=UVV10 }
+        ParameterValue = { R=-0.563, G=-0.624872, B=0.2, A=0.34 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=UV11 }
+        ParameterValue = { R=0.4, G=-0.545, B=0.14, A=0.24 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=UV12 }
+        ParameterValue = { R=0.432, G=-0.25, B=0.06, A=0.1 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=UV13 }
+        ParameterValue = { R=0.28, G=-0.48, B=0.06, A=0.1 }
+        ParameterName = None
+    }
+    VectorParameterValues[8] =
+    {
+        ParameterInfo = { Name=UV14 }
+        ParameterValue = { R=-0.47, G=-0.144762, B=0.06, A=0.1 }
+        ParameterName = None
+    }
+    VectorParameterValues[9] =
+    {
+        ParameterInfo = { Name=UV15 }
+        ParameterValue = { R=-0.32, G=-0.49, B=0.06, A=0.1 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Translucent (2)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+CachedReferencedTextures[16] =
+{
+    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival0.Img_NmCardSpringFestival0'
+    CachedReferencedTextures[2] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival2.Img_NmCardSpringFestival2'
+    CachedReferencedTextures[3] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival3.Img_NmCardSpringFestival3'
+    CachedReferencedTextures[4] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival4.Img_NmCardSpringFestival4'
+    CachedReferencedTextures[5] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival5.Img_NmCardSpringFestival5'
+    CachedReferencedTextures[7] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival7.Img_NmCardSpringFestival7'
+    CachedReferencedTextures[8] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival8.Img_NmCardSpringFestival8'
+    CachedReferencedTextures[9] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival13.Img_NmCardSpringFestival13'
+    CachedReferencedTextures[10] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival11.Img_NmCardSpringFestival11'
+    CachedReferencedTextures[11] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival15.Img_NmCardSpringFestival15'
+    CachedReferencedTextures[12] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival16.Img_NmCardSpringFestival16'
+    CachedReferencedTextures[13] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival1.Img_NmCardSpringFestival1'
+    CachedReferencedTextures[14] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival6.Img_NmCardSpringFestival6'
+    CachedReferencedTextures[15] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival14.Img_NmCardSpringFestival14'
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}
