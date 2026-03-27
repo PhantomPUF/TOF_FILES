@@ -1,0 +1,178 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[11] =
+{
+    ReferencedTextures[0] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_01.Animated_AvatarFrame03_01'
+    ReferencedTextures[1] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_02.Animated_AvatarFrame03_02'
+    ReferencedTextures[2] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_03.Animated_AvatarFrame03_03'
+    ReferencedTextures[3] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_04.Animated_AvatarFrame03_04'
+    ReferencedTextures[4] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_05.Animated_AvatarFrame03_05'
+    ReferencedTextures[5] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_06.Animated_AvatarFrame03_06'
+    ReferencedTextures[6] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_07.Animated_AvatarFrame03_07'
+    ReferencedTextures[7] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_08.Animated_AvatarFrame03_08'
+    ReferencedTextures[8] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_09.Animated_AvatarFrame03_09'
+    ReferencedTextures[9] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_10.Animated_AvatarFrame03_10'
+    ReferencedTextures[10] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_11.Animated_AvatarFrame03_11'
+}
+Expressions[0] = {}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] =
+            {
+                ParameterInfos[6] =
+                {
+                    ParameterInfos[0] = { Name=Param_4 }
+                    ParameterInfos[1] = { Name=RotatorSpeed }
+                    ParameterInfos[2] = { Name=Param_1 }
+                    ParameterInfos[3] = { Name=Param_2 }
+                    ParameterInfos[4] = { Name=Param_3 }
+                    ParameterInfos[5] = { Name=Param_6 }
+                }
+            }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] =
+            {
+                ParameterInfos[11] =
+                {
+                    ParameterInfos[0] = { Name=Param3 }
+                    ParameterInfos[1] = { Name=Param10 }
+                    ParameterInfos[2] = { Name=Param5 }
+                    ParameterInfos[3] = { Name=Param8 }
+                    ParameterInfos[4] = { Name=Param_1 }
+                    ParameterInfos[5] = { Name=Param4 }
+                    ParameterInfos[6] = { Name=11 }
+                    ParameterInfos[7] = { Name=Param9 }
+                    ParameterInfos[8] = { Name=Param6 }
+                    ParameterInfos[9] = { Name=Param7 }
+                    ParameterInfos[10] = { Name=Param_2 }
+                }
+            }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[6] = { 0.5, 0.243809, 0.5, 0.7, 0.6, 0.3 }
+        VectorValues[0] = {}
+        TextureValues[11] =
+        {
+            TextureValues[0] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_02.Animated_AvatarFrame03_02'
+            TextureValues[1] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_07.Animated_AvatarFrame03_07'
+            TextureValues[2] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_09.Animated_AvatarFrame03_09'
+            TextureValues[3] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_05.Animated_AvatarFrame03_05'
+            TextureValues[4] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_01.Animated_AvatarFrame03_01'
+            TextureValues[5] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_03.Animated_AvatarFrame03_03'
+            TextureValues[6] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_11.Animated_AvatarFrame03_11'
+            TextureValues[7] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_06.Animated_AvatarFrame03_06'
+            TextureValues[8] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_10.Animated_AvatarFrame03_10'
+            TextureValues[9] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_04.Animated_AvatarFrame03_04'
+            TextureValues[10] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_08.Animated_AvatarFrame03_08'
+        }
+    }
+    ReferencedTextures[11] =
+    {
+        ReferencedTextures[0] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_01.Animated_AvatarFrame03_01'
+        ReferencedTextures[1] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_08.Animated_AvatarFrame03_08'
+        ReferencedTextures[2] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_02.Animated_AvatarFrame03_02'
+        ReferencedTextures[3] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_03.Animated_AvatarFrame03_03'
+        ReferencedTextures[4] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_09.Animated_AvatarFrame03_09'
+        ReferencedTextures[5] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_10.Animated_AvatarFrame03_10'
+        ReferencedTextures[6] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_04.Animated_AvatarFrame03_04'
+        ReferencedTextures[7] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_05.Animated_AvatarFrame03_05'
+        ReferencedTextures[8] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_06.Animated_AvatarFrame03_06'
+        ReferencedTextures[9] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_07.Animated_AvatarFrame03_07'
+        ReferencedTextures[10] = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_11.Animated_AvatarFrame03_11'
+    }
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[11] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_02.Animated_AvatarFrame03_02'
+        Name = Param3
+        Group = None
+    }
+    CollectedTextureParameters[1] =
+    {
+        Texture = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_07.Animated_AvatarFrame03_07'
+        Name = Param10
+        Group = None
+    }
+    CollectedTextureParameters[2] =
+    {
+        Texture = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_09.Animated_AvatarFrame03_09'
+        Name = Param5
+        Group = None
+    }
+    CollectedTextureParameters[3] =
+    {
+        Texture = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_05.Animated_AvatarFrame03_05'
+        Name = Param8
+        Group = None
+    }
+    CollectedTextureParameters[4] =
+    {
+        Texture = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_01.Animated_AvatarFrame03_01'
+        Name = Param_1
+        Group = None
+    }
+    CollectedTextureParameters[5] =
+    {
+        Texture = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_03.Animated_AvatarFrame03_03'
+        Name = Param4
+        Group = None
+    }
+    CollectedTextureParameters[6] =
+    {
+        Texture = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_11.Animated_AvatarFrame03_11'
+        Name = 11
+        Group = None
+    }
+    CollectedTextureParameters[7] =
+    {
+        Texture = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_06.Animated_AvatarFrame03_06'
+        Name = Param9
+        Group = None
+    }
+    CollectedTextureParameters[8] =
+    {
+        Texture = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_10.Animated_AvatarFrame03_10'
+        Name = Param6
+        Group = None
+    }
+    CollectedTextureParameters[9] =
+    {
+        Texture = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_04.Animated_AvatarFrame03_04'
+        Name = Param7
+        Group = None
+    }
+    CollectedTextureParameters[10] =
+    {
+        Texture = Texture2D'/Game/Resources/Icon/AvatarFrame/Anm/Animated_AvatarFrame03_08.Animated_AvatarFrame03_08'
+        Name = Param_2
+        Group = None
+    }
+}
+CollectedScalarParameters[6] =
+{
+    CollectedScalarParameters[0] = { Value=0.5, Name=Param_4, Group=None }
+    CollectedScalarParameters[1] = { Value=0.243809, Name=RotatorSpeed, Group=None }
+    CollectedScalarParameters[2] = { Value=0.5, Name=Param_1, Group=None }
+    CollectedScalarParameters[3] = { Value=0.7, Name=Param_2, Group=None }
+    CollectedScalarParameters[4] = { Value=0.6, Name=Param_3, Group=None }
+    CollectedScalarParameters[5] = { Value=0.3, Name=Param_6, Group=None }
+}
+CollectedVectorParameters[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}
