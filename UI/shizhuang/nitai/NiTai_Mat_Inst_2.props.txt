@@ -1,0 +1,59 @@
+Parent = Material3'/Game/Resources/UI/shizhuang/nitai/NiTai_Mat_2.NiTai_Mat_2'
+ScalarParameterValues[1] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[1] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=UI_TEX }
+        ParameterValue = Texture2D'/Game/Resources/UI/manyou/manyou_touxiang/manyou_imitation_17.manyou_imitation_17'
+        ParameterName = None
+    }
+}
+VectorParameterValues[1] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=UI_TEX_Scale }
+        ParameterValue = { R=1.35, G=2.295, B=0.133334, A=-0.066668 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Translucent (2)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+CachedReferencedTextures[2] =
+{
+    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/manyou/Bg_chuyouGetMask.Bg_chuyouGetMask'
+    CachedReferencedTextures[1] = Texture2D'/Game/Resources/UI/manyou/manyou_touxiang/manyou_imitation_29.manyou_imitation_29'
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}
