@@ -1,22 +1,19 @@
 TwoSided = false
 bDisableDepthTest = false
 bIsMasked = false
-ReferencedTextures[14] =
+ReferencedTextures[11] =
 {
     ReferencedTextures[0] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival0.Img_NmCardSpringFestival0'
     ReferencedTextures[1] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival1.Img_NmCardSpringFestival1'
-    ReferencedTextures[2] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival11.Img_NmCardSpringFestival11'
-    ReferencedTextures[3] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival13.Img_NmCardSpringFestival13'
-    ReferencedTextures[4] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival14.Img_NmCardSpringFestival14'
-    ReferencedTextures[5] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival15.Img_NmCardSpringFestival15'
-    ReferencedTextures[6] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival16.Img_NmCardSpringFestival16'
+    ReferencedTextures[2] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival13.Img_NmCardSpringFestival13'
+    ReferencedTextures[3] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival14.Img_NmCardSpringFestival14'
+    ReferencedTextures[4] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival15.Img_NmCardSpringFestival15'
+    ReferencedTextures[5] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival17.Img_NmCardSpringFestival17'
+    ReferencedTextures[6] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival18.Img_NmCardSpringFestival18'
     ReferencedTextures[7] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival2.Img_NmCardSpringFestival2'
     ReferencedTextures[8] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival3.Img_NmCardSpringFestival3'
     ReferencedTextures[9] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival4.Img_NmCardSpringFestival4'
     ReferencedTextures[10] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival5.Img_NmCardSpringFestival5'
-    ReferencedTextures[11] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival6.Img_NmCardSpringFestival6'
-    ReferencedTextures[12] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival7.Img_NmCardSpringFestival7'
-    ReferencedTextures[13] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival8.Img_NmCardSpringFestival8'
 }
 Expressions[0] = {}
 CachedExpressionData =
@@ -27,81 +24,65 @@ CachedExpressionData =
         {
             Entries[0] =
             {
-                ParameterInfos[49] =
+                ParameterInfos[38] =
                 {
                     ParameterInfos[0] = { Name=yaobai12 }
                     ParameterInfos[1] = { Name=Shaking3 }
-                    ParameterInfos[2] = { Name=swing4 }
-                    ParameterInfos[3] = { Name=swing5 }
-                    ParameterInfos[4] = { Name=HUANGDONG15 }
-                    ParameterInfos[5] = { Name=YAOBAI15 }
-                    ParameterInfos[6] = { Name=Twist Power11 }
-                    ParameterInfos[7] = { Name=Twist Power13 }
-                    ParameterInfos[8] = { Name=UV14 }
-                    ParameterInfos[9] = { Name=7 }
-                    ParameterInfos[10] = { Name=shandong10 }
-                    ParameterInfos[11] = { Name=Twist Power12 }
-                    ParameterInfos[12] = { Name=huangdong }
-                    ParameterInfos[13] = { Name=NoiseIntensity008 }
-                    ParameterInfos[14] = { Name=UV13 }
-                    ParameterInfos[15] = { Name=swing6 }
-                    ParameterInfos[16] = { Name=NoiseIntensity001 }
-                    ParameterInfos[17] = { Name=Twist Power10 }
-                    ParameterInfos[18] = { Name=Shaking6 }
-                    ParameterInfos[19] = { Name=Twist Power14 }
-                    ParameterInfos[20] = { Name=swing11 }
-                    ParameterInfos[21] = { Name=huangdong 4 }
-                    ParameterInfos[22] = { Name=swing3 }
-                    ParameterInfos[23] = { Name=NoiseIntensity009 }
-                    ParameterInfos[24] = { Name=YAOBAI13 }
-                    ParameterInfos[25] = { Name=Twist Power15 }
-                    ParameterInfos[26] = { Name=10 }
-                    ParameterInfos[27] = { Name=11 }
-                    ParameterInfos[28] = { Name=UV12 }
-                    ParameterInfos[29] = { Name=Shaking5 }
-                    ParameterInfos[30] = { Name=shandong5 }
-                    ParameterInfos[31] = { Name=Random3 }
-                    ParameterInfos[32] = { Name=Shaking7 }
-                    ParameterInfos[33] = { Name=Twist Power }
-                    ParameterInfos[34] = { Name=swing2 }
-                    ParameterInfos[35] = { Name=YAOBAI14 }
-                    ParameterInfos[36] = { Name=huangdong12 }
-                    ParameterInfos[37] = { Name=UV15 }
-                    ParameterInfos[38] = { Name=Shaking2 }
-                    ParameterInfos[39] = { Name=HUANGDONG 11 }
-                    ParameterInfos[40] = { Name=HUANGDONG14 }
-                    ParameterInfos[41] = { Name=huangdong 10 }
-                    ParameterInfos[42] = { Name=UV }
-                    ParameterInfos[43] = { Name=swing7 }
-                    ParameterInfos[44] = { Name=shandong6 }
-                    ParameterInfos[45] = { Name=Twist UV }
-                    ParameterInfos[46] = { Name=Random15 }
-                    ParameterInfos[47] = { Name=swing10 }
-                    ParameterInfos[48] = { Name=Random }
+                    ParameterInfos[2] = { Name=swing5 }
+                    ParameterInfos[3] = { Name=Twist Power11 }
+                    ParameterInfos[4] = { Name=Twist Power13 }
+                    ParameterInfos[5] = { Name=UV14 }
+                    ParameterInfos[6] = { Name=shandong10 }
+                    ParameterInfos[7] = { Name=Twist Power12 }
+                    ParameterInfos[8] = { Name=huangdong }
+                    ParameterInfos[9] = { Name=NoiseIntensity008 }
+                    ParameterInfos[10] = { Name=UV13 }
+                    ParameterInfos[11] = { Name=swing6 }
+                    ParameterInfos[12] = { Name=NoiseIntensity001 }
+                    ParameterInfos[13] = { Name=Twist Power10 }
+                    ParameterInfos[14] = { Name=Shaking6 }
+                    ParameterInfos[15] = { Name=Twist Power14 }
+                    ParameterInfos[16] = { Name=swing11 }
+                    ParameterInfos[17] = { Name=swing3 }
+                    ParameterInfos[18] = { Name=YAOBAI13 }
+                    ParameterInfos[19] = { Name=10 }
+                    ParameterInfos[20] = { Name=11 }
+                    ParameterInfos[21] = { Name=UV12 }
+                    ParameterInfos[22] = { Name=Shaking5 }
+                    ParameterInfos[23] = { Name=shandong5 }
+                    ParameterInfos[24] = { Name=Random3 }
+                    ParameterInfos[25] = { Name=Twist Power }
+                    ParameterInfos[26] = { Name=swing2 }
+                    ParameterInfos[27] = { Name=YAOBAI14 }
+                    ParameterInfos[28] = { Name=huangdong12 }
+                    ParameterInfos[29] = { Name=Shaking2 }
+                    ParameterInfos[30] = { Name=HUANGDONG 11 }
+                    ParameterInfos[31] = { Name=HUANGDONG14 }
+                    ParameterInfos[32] = { Name=huangdong 10 }
+                    ParameterInfos[33] = { Name=UV }
+                    ParameterInfos[34] = { Name=shandong6 }
+                    ParameterInfos[35] = { Name=Twist UV }
+                    ParameterInfos[36] = { Name=swing10 }
+                    ParameterInfos[37] = { Name=Random }
                 }
             }
             Entries[1] =
             {
-                ParameterInfos[13] =
+                ParameterInfos[8] =
                 {
-                    ParameterInfos[0] = { Name=UVV4 }
-                    ParameterInfos[1] = { Name=UV14 }
-                    ParameterInfos[2] = { Name=UV13 }
-                    ParameterInfos[3] = { Name=UV9 }
-                    ParameterInfos[4] = { Name=UV8 }
-                    ParameterInfos[5] = { Name=UVV10 }
-                    ParameterInfos[6] = { Name=NoisePanner09 }
-                    ParameterInfos[7] = { Name=UV12 }
-                    ParameterInfos[8] = { Name=UVV7 }
-                    ParameterInfos[9] = { Name=NoisePanner08 }
-                    ParameterInfos[10] = { Name=UV15 }
-                    ParameterInfos[11] = { Name=NoisePanner01 }
-                    ParameterInfos[12] = { Name=UV11 }
+                    ParameterInfos[0] = { Name=UV14 }
+                    ParameterInfos[1] = { Name=UV13 }
+                    ParameterInfos[2] = { Name=UV8 }
+                    ParameterInfos[3] = { Name=UVV10 }
+                    ParameterInfos[4] = { Name=UV12 }
+                    ParameterInfos[5] = { Name=NoisePanner08 }
+                    ParameterInfos[6] = { Name=NoisePanner01 }
+                    ParameterInfos[7] = { Name=UV11 }
                 }
             }
             Entries[2] =
             {
-                ParameterInfos[17] =
+                ParameterInfos[13] =
                 {
                     ParameterInfos[0] = { Name=Param3 }
                     ParameterInfos[1] = { Name=Param12 }
@@ -111,33 +92,29 @@ CachedExpressionData =
                     ParameterInfos[5] = { Name=Param8 }
                     ParameterInfos[6] = { Name=Param1 }
                     ParameterInfos[7] = { Name=NoiseMap003 }
-                    ParameterInfos[8] = { Name=Param4 }
-                    ParameterInfos[9] = { Name=Param13 }
-                    ParameterInfos[10] = { Name=Param0 }
-                    ParameterInfos[11] = { Name=Param9 }
-                    ParameterInfos[12] = { Name=Param6 }
-                    ParameterInfos[13] = { Name=Param11 }
-                    ParameterInfos[14] = { Name=Param15 }
-                    ParameterInfos[15] = { Name=Param7 }
-                    ParameterInfos[16] = { Name=Param14 }
+                    ParameterInfos[8] = { Name=Param13 }
+                    ParameterInfos[9] = { Name=Param0 }
+                    ParameterInfos[10] = { Name=Param6 }
+                    ParameterInfos[11] = { Name=Param11 }
+                    ParameterInfos[12] = { Name=Param14 }
                 }
             }
             Entries[3] = { ParameterInfos[0]={} }
             Entries[4] = { ParameterInfos[0]={} }
         }
-        ScalarValues[49] =
+        ScalarValues[38] =
         {
             ScalarValues[0] = 0
             ScalarValues[1] = 0
             ScalarValues[2] = 0
-            ScalarValues[3] = 0
+            ScalarValues[3] = 0.259048
             ScalarValues[4] = 0
             ScalarValues[5] = 0
-            ScalarValues[6] = 0.259048
+            ScalarValues[6] = 1
             ScalarValues[7] = 0
             ScalarValues[8] = 0
             ScalarValues[9] = 0
-            ScalarValues[10] = 1
+            ScalarValues[10] = 0
             ScalarValues[11] = 0
             ScalarValues[12] = 0
             ScalarValues[13] = 0
@@ -148,92 +125,69 @@ CachedExpressionData =
             ScalarValues[18] = 0
             ScalarValues[19] = 0
             ScalarValues[20] = 0
-            ScalarValues[21] = 0.022857
+            ScalarValues[21] = 0
             ScalarValues[22] = 0
-            ScalarValues[23] = 0
-            ScalarValues[24] = 0
-            ScalarValues[25] = 0
+            ScalarValues[23] = 1
+            ScalarValues[24] = 1
+            ScalarValues[25] = 0.3
             ScalarValues[26] = 0
             ScalarValues[27] = 0
             ScalarValues[28] = 0
             ScalarValues[29] = 0
-            ScalarValues[30] = 1
-            ScalarValues[31] = 1
-            ScalarValues[32] = 0
-            ScalarValues[33] = 0.3
-            ScalarValues[34] = 0
-            ScalarValues[35] = 0
+            ScalarValues[30] = 0.022857
+            ScalarValues[31] = 0
+            ScalarValues[32] = 0.022857
+            ScalarValues[33] = 0.2
+            ScalarValues[34] = 1
+            ScalarValues[35] = 1.36428
             ScalarValues[36] = 0
-            ScalarValues[37] = 0
-            ScalarValues[38] = 0
-            ScalarValues[39] = 0.022857
-            ScalarValues[40] = 0
-            ScalarValues[41] = 0.022857
-            ScalarValues[42] = 0.2
-            ScalarValues[43] = 0
-            ScalarValues[44] = 1
-            ScalarValues[45] = 1.36428
-            ScalarValues[46] = 1
-            ScalarValues[47] = 0
-            ScalarValues[48] = 1
+            ScalarValues[37] = 1
         }
-        VectorValues[13] =
+        VectorValues[8] =
         {
             VectorValues[0] = { R=0, G=0, B=0.5, A=0.5 }
             VectorValues[1] = { R=0, G=0, B=0.5, A=0.5 }
             VectorValues[2] = { R=0, G=0, B=0.5, A=0.5 }
             VectorValues[3] = { R=0, G=0, B=0.5, A=0.5 }
-            VectorValues[4] = { R=0, G=0, B=0.5, A=0.5 }
-            VectorValues[5] = { R=0, G=0, B=0.5, A=0.5 }
+            VectorValues[4] = { R=0, G=0, B=1, A=1 }
+            VectorValues[5] = { R=1, G=1, B=0.2, A=0 }
             VectorValues[6] = { R=1, G=1, B=0.2, A=0 }
             VectorValues[7] = { R=0, G=0, B=0.5, A=0.5 }
-            VectorValues[8] = { R=0, G=0, B=0.5, A=0.5 }
-            VectorValues[9] = { R=1, G=1, B=0.2, A=0 }
-            VectorValues[10] = { R=0, G=0, B=0.5, A=0.5 }
-            VectorValues[11] = { R=1, G=1, B=0.2, A=0 }
-            VectorValues[12] = { R=0, G=0, B=0.5, A=0.5 }
         }
-        TextureValues[17] =
+        TextureValues[13] =
         {
             TextureValues[0] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival3.Img_NmCardSpringFestival3'
-            TextureValues[1] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival11.Img_NmCardSpringFestival11'
+            TextureValues[1] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival18.Img_NmCardSpringFestival18'
             TextureValues[2] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival2.Img_NmCardSpringFestival2'
             TextureValues[3] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival13.Img_NmCardSpringFestival13'
             TextureValues[4] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival4.Img_NmCardSpringFestival4'
-            TextureValues[5] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival7.Img_NmCardSpringFestival7'
+            TextureValues[5] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival17.Img_NmCardSpringFestival17'
             TextureValues[6] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival1.Img_NmCardSpringFestival1'
-            TextureValues[8] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival6.Img_NmCardSpringFestival6'
-            TextureValues[9] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival15.Img_NmCardSpringFestival15'
-            TextureValues[10] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival0.Img_NmCardSpringFestival0'
-            TextureValues[11] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival8.Img_NmCardSpringFestival8'
-            TextureValues[12] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival5.Img_NmCardSpringFestival5'
-            TextureValues[13] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival13.Img_NmCardSpringFestival13'
-            TextureValues[14] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival16.Img_NmCardSpringFestival16'
-            TextureValues[15] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival14.Img_NmCardSpringFestival14'
-            TextureValues[16] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival15.Img_NmCardSpringFestival15'
+            TextureValues[8] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival15.Img_NmCardSpringFestival15'
+            TextureValues[9] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival0.Img_NmCardSpringFestival0'
+            TextureValues[10] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival5.Img_NmCardSpringFestival5'
+            TextureValues[11] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival13.Img_NmCardSpringFestival13'
+            TextureValues[12] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival15.Img_NmCardSpringFestival15'
         }
     }
-    ReferencedTextures[16] =
+    ReferencedTextures[13] =
     {
         ReferencedTextures[0] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival0.Img_NmCardSpringFestival0'
         ReferencedTextures[2] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival2.Img_NmCardSpringFestival2'
         ReferencedTextures[3] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival3.Img_NmCardSpringFestival3'
         ReferencedTextures[4] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival4.Img_NmCardSpringFestival4'
         ReferencedTextures[5] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival5.Img_NmCardSpringFestival5'
-        ReferencedTextures[7] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival7.Img_NmCardSpringFestival7'
-        ReferencedTextures[8] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival8.Img_NmCardSpringFestival8'
-        ReferencedTextures[9] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival13.Img_NmCardSpringFestival13'
-        ReferencedTextures[10] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival11.Img_NmCardSpringFestival11'
-        ReferencedTextures[11] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival15.Img_NmCardSpringFestival15'
-        ReferencedTextures[12] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival16.Img_NmCardSpringFestival16'
-        ReferencedTextures[13] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival1.Img_NmCardSpringFestival1'
-        ReferencedTextures[14] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival6.Img_NmCardSpringFestival6'
-        ReferencedTextures[15] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival14.Img_NmCardSpringFestival14'
+        ReferencedTextures[7] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival17.Img_NmCardSpringFestival17'
+        ReferencedTextures[8] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival13.Img_NmCardSpringFestival13'
+        ReferencedTextures[9] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival18.Img_NmCardSpringFestival18'
+        ReferencedTextures[10] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival15.Img_NmCardSpringFestival15'
+        ReferencedTextures[11] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival1.Img_NmCardSpringFestival1'
+        ReferencedTextures[12] = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival14.Img_NmCardSpringFestival14'
     }
 }
 BlendMode = BLEND_Translucent (2)
 OpacityMaskClipValue = 0.333
-CollectedTextureParameters[17] =
+CollectedTextureParameters[13] =
 {
     CollectedTextureParameters[0] =
     {
@@ -243,7 +197,7 @@ CollectedTextureParameters[17] =
     }
     CollectedTextureParameters[1] =
     {
-        Texture = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival11.Img_NmCardSpringFestival11'
+        Texture = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival18.Img_NmCardSpringFestival18'
         Name = Param12
         Group = None
     }
@@ -267,7 +221,7 @@ CollectedTextureParameters[17] =
     }
     CollectedTextureParameters[5] =
     {
-        Texture = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival7.Img_NmCardSpringFestival7'
+        Texture = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival17.Img_NmCardSpringFestival17'
         Name = Param8
         Group = None
     }
@@ -280,186 +234,121 @@ CollectedTextureParameters[17] =
     CollectedTextureParameters[7] = { Texture=None, Name=NoiseMap003, Group=None }
     CollectedTextureParameters[8] =
     {
-        Texture = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival6.Img_NmCardSpringFestival6'
-        Name = Param4
-        Group = None
-    }
-    CollectedTextureParameters[9] =
-    {
         Texture = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival15.Img_NmCardSpringFestival15'
         Name = Param13
         Group = None
     }
-    CollectedTextureParameters[10] =
+    CollectedTextureParameters[9] =
     {
         Texture = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival0.Img_NmCardSpringFestival0'
         Name = Param0
         Group = None
     }
-    CollectedTextureParameters[11] =
-    {
-        Texture = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival8.Img_NmCardSpringFestival8'
-        Name = Param9
-        Group = None
-    }
-    CollectedTextureParameters[12] =
+    CollectedTextureParameters[10] =
     {
         Texture = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival5.Img_NmCardSpringFestival5'
         Name = Param6
         Group = None
     }
-    CollectedTextureParameters[13] =
+    CollectedTextureParameters[11] =
     {
         Texture = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival13.Img_NmCardSpringFestival13'
         Name = Param11
         Group = None
     }
-    CollectedTextureParameters[14] =
-    {
-        Texture = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival16.Img_NmCardSpringFestival16'
-        Name = Param15
-        Group = None
-    }
-    CollectedTextureParameters[15] =
-    {
-        Texture = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival14.Img_NmCardSpringFestival14'
-        Name = Param7
-        Group = None
-    }
-    CollectedTextureParameters[16] =
+    CollectedTextureParameters[12] =
     {
         Texture = Texture2D'/Game/Resources/UI/mingpian/All/SpringFestival/Img_NmCardSpringFestival15.Img_NmCardSpringFestival15'
         Name = Param14
         Group = None
     }
 }
-CollectedScalarParameters[49] =
+CollectedScalarParameters[38] =
 {
     CollectedScalarParameters[0] = { Value=0, Name=yaobai12, Group=None }
     CollectedScalarParameters[1] = { Value=0, Name=Shaking3, Group=None }
-    CollectedScalarParameters[2] = { Value=0, Name=swing4, Group=None }
-    CollectedScalarParameters[3] = { Value=0, Name=swing5, Group=None }
-    CollectedScalarParameters[4] = { Value=0, Name=HUANGDONG15, Group=None }
-    CollectedScalarParameters[5] = { Value=0, Name=YAOBAI15, Group=None }
-    CollectedScalarParameters[6] = { Value=0.259048, Name=Twist Power11, Group=None }
-    CollectedScalarParameters[7] = { Value=0, Name=Twist Power13, Group=None }
-    CollectedScalarParameters[8] = { Value=0, Name=UV14, Group=None }
-    CollectedScalarParameters[9] = { Value=0, Name=7, Group=None }
-    CollectedScalarParameters[10] = { Value=1, Name=shandong10, Group=None }
-    CollectedScalarParameters[11] = { Value=0, Name=Twist Power12, Group=None }
-    CollectedScalarParameters[12] = { Value=0, Name=huangdong, Group=None }
-    CollectedScalarParameters[13] = { Value=0, Name=NoiseIntensity008, Group=None }
-    CollectedScalarParameters[14] = { Value=0, Name=UV13, Group=None }
-    CollectedScalarParameters[15] = { Value=0, Name=swing6, Group=None }
-    CollectedScalarParameters[16] = { Value=0, Name=NoiseIntensity001, Group=None }
-    CollectedScalarParameters[17] = { Value=0, Name=Twist Power10, Group=None }
-    CollectedScalarParameters[18] = { Value=0, Name=Shaking6, Group=None }
-    CollectedScalarParameters[19] = { Value=0, Name=Twist Power14, Group=None }
-    CollectedScalarParameters[20] = { Value=0, Name=swing11, Group=None }
-    CollectedScalarParameters[21] = { Value=0.022857, Name=huangdong 4, Group=None }
-    CollectedScalarParameters[22] = { Value=0, Name=swing3, Group=None }
-    CollectedScalarParameters[23] = { Value=0, Name=NoiseIntensity009, Group=None }
-    CollectedScalarParameters[24] = { Value=0, Name=YAOBAI13, Group=None }
-    CollectedScalarParameters[25] = { Value=0, Name=Twist Power15, Group=None }
-    CollectedScalarParameters[26] = { Value=0, Name=10, Group=None }
-    CollectedScalarParameters[27] = { Value=0, Name=11, Group=None }
-    CollectedScalarParameters[28] = { Value=0, Name=UV12, Group=None }
-    CollectedScalarParameters[29] = { Value=0, Name=Shaking5, Group=None }
-    CollectedScalarParameters[30] = { Value=1, Name=shandong5, Group=None }
-    CollectedScalarParameters[31] = { Value=1, Name=Random3, Group=None }
-    CollectedScalarParameters[32] = { Value=0, Name=Shaking7, Group=None }
-    CollectedScalarParameters[33] = { Value=0.3, Name=Twist Power, Group=None }
-    CollectedScalarParameters[34] = { Value=0, Name=swing2, Group=None }
-    CollectedScalarParameters[35] = { Value=0, Name=YAOBAI14, Group=None }
-    CollectedScalarParameters[36] = { Value=0, Name=huangdong12, Group=None }
-    CollectedScalarParameters[37] = { Value=0, Name=UV15, Group=None }
-    CollectedScalarParameters[38] = { Value=0, Name=Shaking2, Group=None }
-    CollectedScalarParameters[39] = { Value=0.022857, Name=HUANGDONG 11, Group=None }
-    CollectedScalarParameters[40] = { Value=0, Name=HUANGDONG14, Group=None }
-    CollectedScalarParameters[41] = { Value=0.022857, Name=huangdong 10, Group=None }
-    CollectedScalarParameters[42] = { Value=0.2, Name=UV, Group=None }
-    CollectedScalarParameters[43] = { Value=0, Name=swing7, Group=None }
-    CollectedScalarParameters[44] = { Value=1, Name=shandong6, Group=None }
-    CollectedScalarParameters[45] = { Value=1.36428, Name=Twist UV, Group=None }
-    CollectedScalarParameters[46] = { Value=1, Name=Random15, Group=None }
-    CollectedScalarParameters[47] = { Value=0, Name=swing10, Group=None }
-    CollectedScalarParameters[48] = { Value=1, Name=Random, Group=None }
+    CollectedScalarParameters[2] = { Value=0, Name=swing5, Group=None }
+    CollectedScalarParameters[3] = { Value=0.259048, Name=Twist Power11, Group=None }
+    CollectedScalarParameters[4] = { Value=0, Name=Twist Power13, Group=None }
+    CollectedScalarParameters[5] = { Value=0, Name=UV14, Group=None }
+    CollectedScalarParameters[6] = { Value=1, Name=shandong10, Group=None }
+    CollectedScalarParameters[7] = { Value=0, Name=Twist Power12, Group=None }
+    CollectedScalarParameters[8] = { Value=0, Name=huangdong, Group=None }
+    CollectedScalarParameters[9] = { Value=0, Name=NoiseIntensity008, Group=None }
+    CollectedScalarParameters[10] = { Value=0, Name=UV13, Group=None }
+    CollectedScalarParameters[11] = { Value=0, Name=swing6, Group=None }
+    CollectedScalarParameters[12] = { Value=0, Name=NoiseIntensity001, Group=None }
+    CollectedScalarParameters[13] = { Value=0, Name=Twist Power10, Group=None }
+    CollectedScalarParameters[14] = { Value=0, Name=Shaking6, Group=None }
+    CollectedScalarParameters[15] = { Value=0, Name=Twist Power14, Group=None }
+    CollectedScalarParameters[16] = { Value=0, Name=swing11, Group=None }
+    CollectedScalarParameters[17] = { Value=0, Name=swing3, Group=None }
+    CollectedScalarParameters[18] = { Value=0, Name=YAOBAI13, Group=None }
+    CollectedScalarParameters[19] = { Value=0, Name=10, Group=None }
+    CollectedScalarParameters[20] = { Value=0, Name=11, Group=None }
+    CollectedScalarParameters[21] = { Value=0, Name=UV12, Group=None }
+    CollectedScalarParameters[22] = { Value=0, Name=Shaking5, Group=None }
+    CollectedScalarParameters[23] = { Value=1, Name=shandong5, Group=None }
+    CollectedScalarParameters[24] = { Value=1, Name=Random3, Group=None }
+    CollectedScalarParameters[25] = { Value=0.3, Name=Twist Power, Group=None }
+    CollectedScalarParameters[26] = { Value=0, Name=swing2, Group=None }
+    CollectedScalarParameters[27] = { Value=0, Name=YAOBAI14, Group=None }
+    CollectedScalarParameters[28] = { Value=0, Name=huangdong12, Group=None }
+    CollectedScalarParameters[29] = { Value=0, Name=Shaking2, Group=None }
+    CollectedScalarParameters[30] = { Value=0.022857, Name=HUANGDONG 11, Group=None }
+    CollectedScalarParameters[31] = { Value=0, Name=HUANGDONG14, Group=None }
+    CollectedScalarParameters[32] = { Value=0.022857, Name=huangdong 10, Group=None }
+    CollectedScalarParameters[33] = { Value=0.2, Name=UV, Group=None }
+    CollectedScalarParameters[34] = { Value=1, Name=shandong6, Group=None }
+    CollectedScalarParameters[35] = { Value=1.36428, Name=Twist UV, Group=None }
+    CollectedScalarParameters[36] = { Value=0, Name=swing10, Group=None }
+    CollectedScalarParameters[37] = { Value=1, Name=Random, Group=None }
 }
-CollectedVectorParameters[13] =
+CollectedVectorParameters[8] =
 {
     CollectedVectorParameters[0] =
-    {
-        Value = { R=0, G=0, B=0.5, A=0.5 }
-        Name = UVV4
-        Group = None
-    }
-    CollectedVectorParameters[1] =
     {
         Value = { R=0, G=0, B=0.5, A=0.5 }
         Name = UV14
         Group = None
     }
-    CollectedVectorParameters[2] =
+    CollectedVectorParameters[1] =
     {
         Value = { R=0, G=0, B=0.5, A=0.5 }
         Name = UV13
         Group = None
     }
-    CollectedVectorParameters[3] =
-    {
-        Value = { R=0, G=0, B=0.5, A=0.5 }
-        Name = UV9
-        Group = None
-    }
-    CollectedVectorParameters[4] =
+    CollectedVectorParameters[2] =
     {
         Value = { R=0, G=0, B=0.5, A=0.5 }
         Name = UV8
         Group = None
     }
-    CollectedVectorParameters[5] =
+    CollectedVectorParameters[3] =
     {
         Value = { R=0, G=0, B=0.5, A=0.5 }
         Name = UVV10
         Group = None
     }
-    CollectedVectorParameters[6] =
+    CollectedVectorParameters[4] =
     {
-        Value = { R=1, G=1, B=0.2, A=0 }
-        Name = NoisePanner09
-        Group = None
-    }
-    CollectedVectorParameters[7] =
-    {
-        Value = { R=0, G=0, B=0.5, A=0.5 }
+        Value = { R=0, G=0, B=1, A=1 }
         Name = UV12
         Group = None
     }
-    CollectedVectorParameters[8] =
-    {
-        Value = { R=0, G=0, B=0.5, A=0.5 }
-        Name = UVV7
-        Group = None
-    }
-    CollectedVectorParameters[9] =
+    CollectedVectorParameters[5] =
     {
         Value = { R=1, G=1, B=0.2, A=0 }
         Name = NoisePanner08
         Group = None
     }
-    CollectedVectorParameters[10] =
-    {
-        Value = { R=0, G=0, B=0.5, A=0.5 }
-        Name = UV15
-        Group = None
-    }
-    CollectedVectorParameters[11] =
+    CollectedVectorParameters[6] =
     {
         Value = { R=1, G=1, B=0.2, A=0 }
         Name = NoisePanner01
         Group = None
     }
-    CollectedVectorParameters[12] =
+    CollectedVectorParameters[7] =
     {
         Value = { R=0, G=0, B=0.5, A=0.5 }
         Name = UV11

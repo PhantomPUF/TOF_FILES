@@ -1,4 +1,4 @@
-Parent = Material3'/Game/Resources/UI/main/M_main_hp.M_main_hp'
+Parent = None
 ScalarParameterValues[3] =
 {
     ScalarParameterValues[0] =
@@ -82,10 +82,7 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[1] =
-{
-    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/main/hpline.hpline'
-}
+CachedReferencedTextures[1] = {  }
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

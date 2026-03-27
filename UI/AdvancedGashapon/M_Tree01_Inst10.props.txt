@@ -68,10 +68,7 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[1] =
-{
-    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/AdvancedGashapon/UI_tree_01.UI_tree_01'
-}
+CachedReferencedTextures[1] = {  }
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

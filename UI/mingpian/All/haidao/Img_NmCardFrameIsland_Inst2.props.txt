@@ -1,4 +1,4 @@
-Parent = Material3'/Game/Resources/UI/TreasureMap/image1_Mat.image1_Mat'
+Parent = None
 ScalarParameterValues[3] =
 {
     ScalarParameterValues[0] =
@@ -48,11 +48,7 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[2] =
-{
-    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/TreasureMap/image1.image1'
-    CachedReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Soft_Noise.T_Soft_Noise'
-}
+CachedReferencedTextures[2] = {  }
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

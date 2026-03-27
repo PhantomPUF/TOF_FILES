@@ -1,4 +1,4 @@
-Parent = Material3'/Game/Resources/Effect/Materials/UI/Title/M_Contraction.M_Contraction'
+Parent = None
 ScalarParameterValues[2] =
 {
     ScalarParameterValues[0] =
@@ -19,7 +19,7 @@ TextureParameterValues[2] =
     TextureParameterValues[0] =
     {
         ParameterInfo = { Name=Textures }
-        ParameterValue = Texture2D'/Game/Resources/Effect/Textures/Masks/P_char_Lyncis_GD_Tex.P_char_Lyncis_GD_Tex'
+        ParameterValue = None
         ParameterName = None
     }
     TextureParameterValues[1] =
@@ -48,11 +48,7 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[2] =
-{
-    CachedReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_vignettemask.T_vignettemask'
-    CachedReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Masks/T_Gradient_Beam_001.T_Gradient_Beam_001'
-}
+CachedReferencedTextures[2] = {  }
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

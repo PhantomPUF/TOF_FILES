@@ -19,7 +19,7 @@ TextureParameterValues[2] =
     TextureParameterValues[0] =
     {
         ParameterInfo = { Name=UI_Tex01 }
-        ParameterValue = Texture2D'/Game/Resources/UI/common/common_empty.common_empty'
+        ParameterValue = None
         ParameterName = None
     }
     TextureParameterValues[1] =
@@ -76,11 +76,7 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[2] =
-{
-    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/main/shanbijindu_1.shanbijindu_1'
-    CachedReferencedTextures[1] = Texture2D'/Game/Resources/UI/common/common_empty.common_empty'
-}
+CachedReferencedTextures[2] = {  }
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

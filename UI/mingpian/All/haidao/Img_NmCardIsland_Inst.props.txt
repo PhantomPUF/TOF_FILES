@@ -146,7 +146,6 @@ CachedReferencedTextures[6] =
     CachedReferencedTextures[1] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao02.Animated_Qipao02'
     CachedReferencedTextures[2] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao04.Animated_Qipao04'
     CachedReferencedTextures[3] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao01.Animated_Qipao01'
-    CachedReferencedTextures[4] = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_006.T_Noise_006'
     CachedReferencedTextures[5] = Texture2D'/Game/Resources/Icon/chat/Animated_Qipao/Animated_01/Animated_Qipao05.Animated_Qipao05'
 }
 FlattenedTexture = None

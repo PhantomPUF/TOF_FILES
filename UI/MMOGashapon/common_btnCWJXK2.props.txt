@@ -1,10 +1,9 @@
 TwoSided = false
 bDisableDepthTest = false
 bIsMasked = false
-ReferencedTextures[2] =
+ReferencedTextures[1] =
 {
-    ReferencedTextures[0] = Texture2D'/Game/Resources/Effect/Textures/Tiles/T_Tiles029.T_Tiles029'
-    ReferencedTextures[1] = Texture2D'/Game/Resources/UI/MMOGashapon/Btn_CWJXK_quxiao.Btn_CWJXK_quxiao'
+    ReferencedTextures[0] = Texture2D'/Game/Resources/UI/MMOGashapon/Btn_CWJXK_quxiao.Btn_CWJXK_quxiao'
 }
 Expressions[0] = {}
 CachedExpressionData =
@@ -46,7 +45,6 @@ CachedExpressionData =
     ReferencedTextures[2] =
     {
         ReferencedTextures[0] = Texture2D'/Game/Resources/UI/MMOGashapon/Btn_CWJXK_quxiao.Btn_CWJXK_quxiao'
-        ReferencedTextures[1] = Texture2D'/Game/Resources/Effect/Textures/Tiles/T_Tiles029.T_Tiles029'
     }
 }
 BlendMode = BLEND_Translucent (2)
