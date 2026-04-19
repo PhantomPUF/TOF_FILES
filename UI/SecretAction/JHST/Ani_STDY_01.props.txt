@@ -54,7 +54,10 @@ StaticParameters =
 }
 RuntimeVirtualTextureParameterValues[0] = {}
 FontParameterValues[0] = {}
-CachedReferencedTextures[2] = {  }
+CachedReferencedTextures[2] =
+{
+    CachedReferencedTextures[0] = Texture2D'/Game/Resources/UI/MMOGashapon/ani/Orna_CWJXK_3a.Orna_CWJXK_3a'
+}
 FlattenedTexture = None
 MobileBaseTexture = None
 MobileNormalTexture = None

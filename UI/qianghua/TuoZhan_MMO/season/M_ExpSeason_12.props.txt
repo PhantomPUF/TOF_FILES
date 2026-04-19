@@ -25,7 +25,7 @@ TextureParameterValues[2] =
     TextureParameterValues[1] =
     {
         ParameterInfo = { Name=Tex_Noise }
-        ParameterValue = None
+        ParameterValue = Texture2D'/Game/Resources/Effect/Textures/Energy/T_Noise_009.T_Noise_009'
         ParameterName = None
     }
 }

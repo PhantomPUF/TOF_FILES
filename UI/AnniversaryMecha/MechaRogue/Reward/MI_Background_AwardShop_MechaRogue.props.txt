@@ -1,4 +1,4 @@
-Parent = None
+Parent = Material3'/Game/Resources/Effect/Meshes/UI/Background/M_Background_002.M_Background_002'
 ScalarParameterValues[3] =
 {
     ScalarParameterValues[0] =
