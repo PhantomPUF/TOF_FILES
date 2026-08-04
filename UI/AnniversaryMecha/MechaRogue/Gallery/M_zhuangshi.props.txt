@@ -21,7 +21,7 @@ ScalarParameterValues[5] =
     }
     ScalarParameterValues[3] =
     {
-        ParameterInfo = { Name=Rotator_Speed }
+        ParameterInfo = { Name=ContourLightRotator_Speed }
         ParameterValue = 0
         ParameterName = None
     }

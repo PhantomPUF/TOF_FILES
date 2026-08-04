@@ -1,0 +1,153 @@
+Parent = None
+ScalarParameterValues[2] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=Brightness }
+        ParameterValue = 1
+        ParameterName = None
+    }
+    ScalarParameterValues[1] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[6] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=BaseTex001 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/liujin/liujin.liujin'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=BaseTex002 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/liujin/Img_NmCardGilding06.Img_NmCardGilding06'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=BaseTex003 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/liujin/Img_NmCardGilding07.Img_NmCardGilding07'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=BaseTex004 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/liujin/Img_NmCardGilding08.Img_NmCardGilding08'
+        ParameterName = None
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterInfo = { Name=BaseTex005 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/liujin/liujin.liujin'
+        ParameterName = None
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterInfo = { Name=BaseTex006 }
+        ParameterValue = Texture2D'/Game/Resources/UI/mingpian/All/liujin/liujin.liujin'
+        ParameterName = None
+    }
+}
+VectorParameterValues[8] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=revolution }
+        ParameterValue = { R=0.242857, G=2, B=0, A=0.538397 }
+        ParameterName = None
+    }
+    VectorParameterValues[1] =
+    {
+        ParameterInfo = { Name=revolution02 }
+        ParameterValue = { R=-0.192218, G=0, B=0, A=0.911138 }
+        ParameterName = None
+    }
+    VectorParameterValues[2] =
+    {
+        ParameterInfo = { Name=revolution03 }
+        ParameterValue = { R=0.1, G=0, B=0, A=0.853333 }
+        ParameterName = None
+    }
+    VectorParameterValues[3] =
+    {
+        ParameterInfo = { Name=revolution04 }
+        ParameterValue = { R=0.1, G=0, B=0, A=-0.601429 }
+        ParameterName = None
+    }
+    VectorParameterValues[4] =
+    {
+        ParameterInfo = { Name=UV }
+        ParameterValue = { R=-0.038095, G=0.045714, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[5] =
+    {
+        ParameterInfo = { Name=UV02 }
+        ParameterValue = { R=-0.015237, G=-0.007618, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[6] =
+    {
+        ParameterInfo = { Name=UV03 }
+        ParameterValue = { R=0, G=0.09381, B=0, A=1 }
+        ParameterName = None
+    }
+    VectorParameterValues[7] =
+    {
+        ParameterInfo = { Name=UV04 }
+        ParameterValue = { R=0.731429, G=0.213333, B=0, A=1 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Translucent (2)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+RuntimeVirtualTextureParameterValues[0] = {}
+FontParameterValues[0] = {}
+CachedReferencedTextures[5] = {  }
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[3] =
+{
+    TextureStreamingData[0] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = Img_NmCardGilding06
+    }
+    TextureStreamingData[1] =
+    {
+        SamplingScale = 1.65625
+        UVChannelIndex = 0
+        TextureName = liujin
+    }
+    TextureStreamingData[2] =
+    {
+        SamplingScale = 1
+        UVChannelIndex = 0
+        TextureName = liujin
+    }
+}
